@@ -1,0 +1,2205 @@
+Name,RBICS_id,Entity_Type,RBICS_Level
+3D Modeling/Rapid Prototyping Automation Providers,401020151510,RBICS_IG,6
+Absorbent Products Manufacturing,50202010,RBICS_IG,4
+Access Systems Manufacturing,551510151010,RBICS_IG,6
+Accessories Production,20101010,RBICS_IG,4
+Accessories Retail,20251010,RBICS_IG,4
+Accommodation Providers,15101010,RBICS_IG,4
+Accounting and Bookkeeping Services,101015201010,RBICS_IG,6
+"Accounting, Tax Preparers and Bookkeeping Services",1010152010,RBICS_IG,5
+Acetylene Gas Manufacturing,451010151535,RBICS_IG,6
+Active and Intermediate Chemicals OEMs,351525101010,RBICS_IG,6
+Activewear and Outerwear Apparel Production,201010151510,RBICS_IG,6
+Acute Care and Institutional Patient Care,35151510,RBICS_IG,4
+Additives Manufacturing,45102010,RBICS_IG,4
+"Adhesive, Sealant, Coating and Paint Products",45102015,RBICS_IG,4
+Adhesives and Sealants Manufacturing,4510201510,RBICS_IG,5
+Administrative Employment Services,1010151010,RBICS_IG,5
+Administrative Services,10101510,RBICS_IG,4
+Administrative Software and Services,1010151015,RBICS_IG,5
+Advanced Combat and Support Systems Manufacturing,401010151010,RBICS_IG,6
+Advertising,151510201510,RBICS_IG,6
+Aerospace Equipment,40101010,RBICS_IG,4
+Aerospace and Defense IT Services,401010151015,RBICS_IG,6
+Aerospace and Defense Manufacturing,401010,RBICS_IG,3
+Aerostructures and Composite Parts Makers,401010101010,RBICS_IG,6
+Africa Banks,3010102010,RBICS_IG,5
+Africa Coal Mining,251010201010,RBICS_IG,6
+Africa and Non-US Americas Air Passenger Services,4015301010,RBICS_IG,5
+Agricultural Support Activity Providers,50151025,RBICS_IG,4
+Agriculture,501510,RBICS_IG,3
+Agriculture and Farming Machinery Manufacturing,4010202510,RBICS_IG,5
+Agrochemical Products,45102020,RBICS_IG,4
+Air Freight Transportation Operators,401510101010,RBICS_IG,6
+Air Passenger Transportation,40153010,RBICS_IG,4
+Air Purification and Filtration Equipment Products,401020101010,RBICS_IG,6
+Air Transport Infrastructure and Support Providers,401510101025,RBICS_IG,6
+Air Transportation Operators,4015101010,RBICS_IG,5
+Air and Water Transportation Operators,40151010,RBICS_IG,4
+"Air, Liquid and Gas Control Equipment",40102010,RBICS_IG,4
+"Air, Liquid and Gas Control Equipment Products",401020101510,RBICS_IG,6
+Aircraft Engine and Engine Parts Makers,401010101015,RBICS_IG,6
+Aircraft Instrument/Electromechanical Part Makers,401010101020,RBICS_IG,6
+Aircraft Manufacturing,401010101025,RBICS_IG,6
+Aircraft and Engine Leasing Services,303010101510,RBICS_IG,6
+Airport/Flight Support Infrastructure Operators,401510101015,RBICS_IG,6
+Alarm Systems Manufacturing,551510151015,RBICS_IG,6
+Alcoholic Beverage Production,5015151010,RBICS_IG,5
+All Apparel Retail,202510201510,RBICS_IG,6
+Allergies Biopharmaceuticals,35101510,RBICS_IG,4
+Alternative Energy Car Manufacturers,202010151020,RBICS_IG,6
+Alternative Exchanges and ECNs,302010252510,RBICS_IG,6
+Alternative Investment Managers,3020101010,RBICS_IG,5
+Alumina Refineries,451510201010,RBICS_IG,6
+Alumina and Aluminum Products Manufacturing,4515102010,RBICS_IG,5
+Aluminum Manufacturing,451510201015,RBICS_IG,6
+Ambulance (Transportation),3515153010,RBICS_IG,5
+Ambulatory and Outpatient Care,3515153015,RBICS_IG,5
+Ambulatory and Outpatient Diagnostic Patient Care,35151515,RBICS_IG,4
+Americas (Excluding US) Department Stores,5010151010,RBICS_IG,5
+Americas Banks,30101010,RBICS_IG,4
+Americas Coal Mining,25101010,RBICS_IG,4
+Americas Fossil Fuel Exploration and Production,25101510,RBICS_IG,4
+Americas Gold Mining,4515252010,RBICS_IG,5
+Americas Investment Banking and Corporate Finance,3020101510,RBICS_IG,5
+Americas Natural Gas Utilities,651010151010,RBICS_IG,6
+Americas Petroleum Refineries,2515101510,RBICS_IG,5
+Americas Water Utilities,651015101010,RBICS_IG,6
+Americas Wholesale Power,65101040,RBICS_IG,4
+Americas Wireless Services,6010151010,RBICS_IG,5
+Americas Wireline Services,6010151510,RBICS_IG,5
+Amusement Centers and Theme Parks,151010151010,RBICS_IG,6
+Amusement and Recreation Centers,1510101510,RBICS_IG,5
+Analog and Mixed Signal Semiconductors,55102010,RBICS_IG,4
+Analytical and Bioanalytical Services,3515201510,RBICS_IG,5
+Anesthesia Biopharmaceuticals,3510151510,RBICS_IG,5
+Anesthesiology Devices,352020151010,RBICS_IG,6
+Animal Feed Manufacturing,501510251010,RBICS_IG,6
+Animal Production,50151010,RBICS_IG,4
+Animal Research,3515202520,RBICS_IG,5
+Annuities,301510151010,RBICS_IG,6
+Antibiotics,351010101020,RBICS_IG,6
+Apparel Component Production,201010151515,RBICS_IG,6
+Apparel Fabrics Manufacturing,4520201010,RBICS_IG,5
+Apparel Production,2010101515,RBICS_IG,5
+Apparel Retail,20251020,RBICS_IG,4
+Apparel and Accessories Retail,202510,RBICS_IG,3
+Apparel and Accessory Products,201010,RBICS_IG,3
+Apparel and Footwear Production,20101015,RBICS_IG,4
+Application Management Consulting,552020201010,RBICS_IG,6
+Architectural Component Manufacturing,4515351010,RBICS_IG,5
+Architectural Glass Manufacturing,451535101010,RBICS_IG,6
+Architectural and Infrastructure Component Makers,45153510,RBICS_IG,4
+Argon Gas Manufacturing,451010151540,RBICS_IG,6
+"Arts, Entertainment and Recreation Providers",15101015,RBICS_IG,4
+Asia (Excluding China) Wireless Services,601015101510,RBICS_IG,6
+Asia (Excluding China) Wireline Services,601015151510,RBICS_IG,6
+Asia Excluding China Mixed Telecommunications,6010105520,RBICS_IG,5
+Asia/Pacific Air Passenger Service Providers,4015301015,RBICS_IG,5
+Asia/Pacific Banks,30101015,RBICS_IG,4
+Asia/Pacific CNG and LNG Distributors,251510101025,RBICS_IG,6
+Asia/Pacific Crude Oil Liquid Pipeline/Storage,251515201015,RBICS_IG,6
+Asia/Pacific Department Stores,5010151015,RBICS_IG,5
+Asia/Pacific Electric Power Utilities,651010101010,RBICS_IG,6
+Asia/Pacific Fossil Fuel Exploration/Production,2510152010,RBICS_IG,5
+Asia/Pacific Gold Mining,4515252015,RBICS_IG,5
+Asia/Pacific International Coal Mining,25101015,RBICS_IG,4
+Asia/Pacific Investment Banking/Corporate Finance,302010151510,RBICS_IG,6
+Asia/Pacific Natural Gas Pipeline and Storage,251515101015,RBICS_IG,6
+Asia/Pacific Natural Gas Utilities,651010151015,RBICS_IG,6
+Asia/Pacific Petroleum Refineries,2515101515,RBICS_IG,5
+Asia/Pacific Petroleum Storage and Transport,251510102525,RBICS_IG,6
+Asia/Pacific Propane and LPG Marketing and Dist.,251510103025,RBICS_IG,6
+Asia/Pacific Rail Transportation,401510201010,RBICS_IG,6
+Asia/Pacific Supermarkets,501010202010,RBICS_IG,6
+Asia/Pacific Water Utilities,651015101015,RBICS_IG,6
+Asia/Pacific Wholesale Power,65101045,RBICS_IG,4
+Asia/Pacific Wireless Services,6010151015,RBICS_IG,5
+Asia/Pacific Wireline Services,6010151515,RBICS_IG,5
+Asphalt Manufacturing,451535201010,RBICS_IG,6
+"Asphalt, Cement and Concrete Product Manufacturing",451535201015,RBICS_IG,6
+"Asphalt, Cement and Concrete Products",4515352010,RBICS_IG,5
+Assembly Equipment Manufacturing,551030101010,RBICS_IG,6
+Asset Management Software,5520151510,RBICS_IG,5
+Asset Management and Financial Advisory Services,30201010,RBICS_IG,4
+Asset Tracking GPS Systems Manufacturing,5515153010,RBICS_IG,5
+Assisted Living,3515152010,RBICS_IG,5
+Athletic Footwear Production,201010152010,RBICS_IG,6
+Auction Houses and Authentication Services,20151510,RBICS_IG,4
+Audio Electronics Manufacturing,55152510,RBICS_IG,4
+Audio Multimedia Semiconductors,551020401510,RBICS_IG,6
+Australia Coal Mining,251010151010,RBICS_IG,6
+Australia Fossil Fuel Exploration/Production,251015201010,RBICS_IG,6
+Australia Gold Ore Mining,451525201510,RBICS_IG,6
+Australia and New Zealand Banks,3010101510,RBICS_IG,5
+Australia and New Zealand Wireless Services,601015101515,RBICS_IG,6
+Australia and New Zealand Wireline Services,601015151515,RBICS_IG,6
+Australia/New Zealand Mixed Telecom Services,6010105515,RBICS_IG,5
+Auto Exterior Comfort/Safety/Electronics Products,202010101010,RBICS_IG,6
+Auto Insurance,301510201510,RBICS_IG,6
+Auto Interior Comfort/Safety/Electronics Products,202010101015,RBICS_IG,6
+Auto Reinsurance,301510252010,RBICS_IG,6
+Auto Retail,201510,RBICS_IG,3
+Autoimmune Disorders Biopharmaceuticals,3510203510,RBICS_IG,5
+Automated Teller Machines (ATMs),303010153010,RBICS_IG,6
+Automated Teller Machines (ATMs) Hardware Makers,551510201010,RBICS_IG,6
+Automobile Comfort/Safety/Electronics Parts Makers,2020101010,RBICS_IG,5
+Automobile Dealers,2015101510,RBICS_IG,5
+Automobile Financing,3030101510,RBICS_IG,5
+Automotive Classifieds and Directories Media/Sites,552010101010,RBICS_IG,6
+Automotive Equipment Rental,2015102010,RBICS_IG,5
+Automotive Industry Software,201510102010,RBICS_IG,6
+Automotive Maintenance and Repair Services,2015101010,RBICS_IG,5
+Automotive Parts and Accessories Stores,201510201510,RBICS_IG,6
+"Automotive Parts, Accessories and Tires Retail",201510201515,RBICS_IG,6
+"Automotive Parts, Accessories and Tires Sales",2015102015,RBICS_IG,5
+Automotive Services,20151010,RBICS_IG,4
+Automotive and Marine Electronics Manufacturing,55152515,RBICS_IG,4
+Autonomous Commercial/Transit Vehicle Production,401025101515,RBICS_IG,6
+Autonomous Control Ship Builders,401025103515,RBICS_IG,6
+Autonomous Control Truck Production,401025102015,RBICS_IG,6
+Autonomous Drone Manufacturers,401010101040,RBICS_IG,6
+Autonomous Drone Parts Manufacturers,401010101045,RBICS_IG,6
+Autonomous Transport Control Software,401510151020,RBICS_IG,6
+Aviation Equipment,4010101010,RBICS_IG,5
+Baby Accessories Manufacturing,50201510,RBICS_IG,4
+"Backup, Emergency and Standby Power Products",401015101510,RBICS_IG,6
+Bacterial Infectious Disease Biopharmaceuticals,3510101010,RBICS_IG,5
+Bacterial Vaccines,351010101010,RBICS_IG,6
+Ball and Roller Bearings Products,4515101010,RBICS_IG,5
+Banking,3010,RBICS_IG,2
+Base Metal Mining,45152510,RBICS_IG,4
+"Basic Plastic Sheets, Films and Shapes Products",4510251510,RBICS_IG,5
+Battery Charging Equipment Manufacturing,401015101550,RBICS_IG,6
+Bauxite Ore Mining,451525101010,RBICS_IG,6
+"Beef, Pork and Other Meats Production",501515152510,RBICS_IG,6
+"Beer, Wine and Spirits Retail",5010102510,RBICS_IG,5
+Benefits Administration Services,101015101010,RBICS_IG,6
+Beverage and Specialty Foods Stores,50101010,RBICS_IG,4
+Beverages Production,50151510,RBICS_IG,4
+Bioanalytical Consumables,351520251010,RBICS_IG,6
+Bioanalytical Instruments,3515202510,RBICS_IG,5
+Biodiesel Fuel Manufacturing,451010101510,RBICS_IG,6
+Biological Specimen Storage,3515102510,RBICS_IG,5
+Biologics OEMs,351525101015,RBICS_IG,6
+Biopharmaceutical OEM,3515251010,RBICS_IG,5
+Biopharmaceuticals,3510,RBICS_IG,2
+Biotechnology and Genomics (GMO/Hybrids) Products,451020201510,RBICS_IG,6
+Blank Check Companies/SPAC,3020102010,RBICS_IG,5
+Blockchain Technology,303015101040,RBICS_IG,6
+Boat Makers,2010151510,RBICS_IG,5
+Boat and Recreational Vehicle Sales,201510151510,RBICS_IG,6
+Book Publishing,151510202010,RBICS_IG,6
+Book Stores,202515151010,RBICS_IG,6
+"Book, Music and Periodical Distributors",202515151015,RBICS_IG,6
+Bottled Water Manufacturing,501515102010,RBICS_IG,6
+Bread and Cereal Product Manufacturing,501515153010,RBICS_IG,6
+Breast Cancer Biopharmaceuticals,3510101510,RBICS_IG,5
+Breweries,501515101010,RBICS_IG,6
+Broadcast Media Services,15151010,RBICS_IG,4
+Brokerage Services,3020102510,RBICS_IG,5
+Budget Hotels and Motels,151010102510,RBICS_IG,6
+Building Components Automation Providers,401020151515,RBICS_IG,6
+Building Construction,401525101010,RBICS_IG,6
+Building Maintenance and Engineering Services,101020101010,RBICS_IG,6
+Building Materials Distribution,40152025,RBICS_IG,4
+Building Materials and Garden Supply Stores,20252010,RBICS_IG,4
+Building Materials and Supplies Stores,2025201010,RBICS_IG,5
+Building/Physical Electronic Security Equipment,5515101510,RBICS_IG,5
+Bulge Bracket Investment Banking,302010151515,RBICS_IG,6
+Burger Restaurants,151010251515,RBICS_IG,6
+Burial Casket Manufacturing,502510151010,RBICS_IG,6
+Bus Transportation,4015301510,RBICS_IG,5
+Business Communications Equipment,55151510,RBICS_IG,4
+Business Development Companies,3020102015,RBICS_IG,5
+Business Event and Conference Organizers,101010101510,RBICS_IG,6
+Business Forms Printing Services,101010151010,RBICS_IG,6
+Business Intelligence Software,5520151515,RBICS_IG,5
+Business Intelligence/Data Warehousing Consulting,552020201015,RBICS_IG,6
+Business Planning and Control ERP Software,552015153010,RBICS_IG,6
+Business Process Outsourcing Services,1010151510,RBICS_IG,5
+Business Services,10,RBICS_IG,1
+Business Support Services,101020,RBICS_IG,3
+CNG and LNG Distributors,2515101010,RBICS_IG,5
+Cabinets and Countertops Manufacturing,201020101010,RBICS_IG,6
+Cable Equipment,55151515,RBICS_IG,4
+Cable Interconnect Components,5510101010,RBICS_IG,5
+Cafeteria and Buffet-Style Restaurants,151010251520,RBICS_IG,6
+Cakes and Pastry Makers,501515153510,RBICS_IG,6
+Canada Banks,3010101010,RBICS_IG,5
+Canada Biomass Wholesale Power,651010401530,RBICS_IG,6
+Canada Decentralized Wholesale Power,651010401535,RBICS_IG,6
+Canada Fossil Fuel Wholesale Power,651010401520,RBICS_IG,6
+Canada Gold Ore Mining,451525201010,RBICS_IG,6
+Canada Hydroelectric Wholesale Power,651010401545,RBICS_IG,6
+Canada Investment Banking and Corporate Finance,302010151010,RBICS_IG,6
+Canada Mixed Alternative Wholesale Power,651010401510,RBICS_IG,6
+Canada Mixed Telecommunications Services,6010105020,RBICS_IG,5
+Canada Mixed Wholesale Power,651010401515,RBICS_IG,6
+Canada National Fossil Fuel Exploration/Production,251015101010,RBICS_IG,6
+Canada Natural Gas Pipeline and Storage,251515101520,RBICS_IG,6
+Canada Oil Sands Exploration/Production,251015101015,RBICS_IG,6
+Canada Other Fossil Fuel Exploration/Production,251015101020,RBICS_IG,6
+Canada Solar Wholesale Power,651010401550,RBICS_IG,6
+Canada Wholesale Power,6510104015,RBICS_IG,5
+Canada Wind Wholesale Power,651010401555,RBICS_IG,6
+Canada Wireline Services,601015151010,RBICS_IG,6
+Cannabis Farming,501510153030,RBICS_IG,6
+Canned and Processed Food Production,5015151510,RBICS_IG,5
+Canned and Processed Fruit and Vegetable Products,501515151010,RBICS_IG,6
+Car Manufacturers,2020101510,RBICS_IG,5
+Carbon Black Manufacturing,451010152010,RBICS_IG,6
+Carbon Capture Services and Technologies,101025302015,RBICS_IG,6
+Carbon Dioxide Gas Manufacturing,451010151530,RBICS_IG,6
+Carbon and Graphite Products Manufacturing,451510202510,RBICS_IG,6
+Cardiology Medical Devices,3520151010,RBICS_IG,5
+Cardiology Surgical Devices,352015101015,RBICS_IG,6
+Cardiovascular System Biopharmaceuticals,35102010,RBICS_IG,4
+Career Classifieds and Directories Media and Sites,552010101015,RBICS_IG,6
+Cargo Transportation and Infrastructure Services,401510,RBICS_IG,3
+Carrier Core (Backbone) Equipment,5515153510,RBICS_IG,5
+Carrier Edge Network Management Equipment,551515352010,RBICS_IG,6
+Casino Table Gaming Equipment,151010151510,RBICS_IG,6
+Casinos and Casino Hotels,151010152510,RBICS_IG,6
+Casual Wear and Teen Wear Production,201010151520,RBICS_IG,6
+Casual and Dress Footwear Production,201010152015,RBICS_IG,6
+Casual and Specialty Apparel Retail,2025102010,RBICS_IG,5
+"Casual, Young Adult/Teen, and Specialty",202510201010,RBICS_IG,6
+Cattle Ranching and Farming,501510101010,RBICS_IG,6
+Cellular Phone Accessories Manufacturing,5515154510,RBICS_IG,5
+Cellular Site Equipment,5515154010,RBICS_IG,5
+Cement Manufacturing,451535201020,RBICS_IG,6
+Central and Eastern Europe Mixed Telecom Services,6010106020,RBICS_IG,5
+Central and Eastern Europe Wireless Services,601015102010,RBICS_IG,6
+Central and Eastern Europe Wireline Services,601015152010,RBICS_IG,6
+Central and South America Mixed Telecom Services,6010105015,RBICS_IG,5
+Central and South America Wireless Services,601015101010,RBICS_IG,6
+Central and South America Wireline Services,601015151015,RBICS_IG,6
+Chassis and Body Manufacturing,202010101510,RBICS_IG,6
+Check Cashing and Pawnshops,3030101515,RBICS_IG,5
+Chemical Flavor and Fragrance Additives Products,4510201010,RBICS_IG,5
+Chemical and Allied Products Distributors,4015201510,RBICS_IG,5
+"Chemical, Plastic and Rubber Materials",4510,RBICS_IG,2
+Chemistry Clinical Diagnostic Devices,3520101010,RBICS_IG,5
+Chicken Egg Production,501510101015,RBICS_IG,6
+Chicken Meat Production,501510101020,RBICS_IG,6
+Chicken Restaurants,151010251525,RBICS_IG,6
+Child Birth and Contraception Biopharmaceuticals,351020501510,RBICS_IG,6
+Children's Wear Production,201010151525,RBICS_IG,6
+Chilled Foods Production,501515151015,RBICS_IG,6
+China Biomass Wholesale Power,651010451530,RBICS_IG,6
+China Coal Mining,251010151015,RBICS_IG,6
+China Decentralized Wholesale Power,651010451535,RBICS_IG,6
+China Fossil Fuel Exploration/Production,251015201015,RBICS_IG,6
+China Fossil Fuel Wholesale Power,651010451520,RBICS_IG,6
+China Geothermal Wholesale Power,651010451540,RBICS_IG,6
+China Gold Ore Mining,451525201515,RBICS_IG,6
+China Hydroelectric Wholesale Power,651010451545,RBICS_IG,6
+China Mixed Alternative Wholesale Power,651010451510,RBICS_IG,6
+China Mixed Telecommunications Services,6010105525,RBICS_IG,5
+China Mixed Wholesale Power,651010451515,RBICS_IG,6
+China Nuclear Wholesale Power,651010451560,RBICS_IG,6
+China Solar Wholesale Power,651010451550,RBICS_IG,6
+China Wholesale Power,6510104515,RBICS_IG,5
+China Wind Wholesale Power,651010451555,RBICS_IG,6
+China Wireless Services,601015101520,RBICS_IG,6
+China Wireline Services,601015151520,RBICS_IG,6
+Cigarette Manufacturing,50152010,RBICS_IG,4
+Cinema Projection Systems Manufacturing,551510251010,RBICS_IG,6
+Circuits Assembly Services,5510151010,RBICS_IG,5
+Citrus Fruit Farming,501510152010,RBICS_IG,6
+City Guides Content Providers and Sites,552010351010,RBICS_IG,6
+Classic Wear and Golf Wear Production,201010151530,RBICS_IG,6
+Clay and Ceramic Products,4515151010,RBICS_IG,5
+Clay and Ceramic Products Manufacturing,451515101010,RBICS_IG,6
+Cleaning and Sanitizing Agent Products,45102025,RBICS_IG,4
+Clinical Diagnostics Devices,35201010,RBICS_IG,4
+Clinical Laboratory Patient Diagnostics,3515151510,RBICS_IG,5
+Clinical Limited Service CRO,3515251515,RBICS_IG,5
+Clinical Limited Service CROs,351525151510,RBICS_IG,6
+Clinical and Preclinical Limited Service CRO,3515251510,RBICS_IG,5
+Clinical and Preclinical Limited Service CROs,351525151010,RBICS_IG,6
+Closed Circuit Television (CCTV) Systems/Products,551510151020,RBICS_IG,6
+Coal and Metals Distribution,401520151510,RBICS_IG,6
+Coal and Uranium Mining,251010,RBICS_IG,3
+Coatings Manufacturing,4510201515,RBICS_IG,5
+Cobalt Ore Mining,451525101035,RBICS_IG,6
+"Coffee, Tea and Cocoa Production",501515102020,RBICS_IG,6
+Collection Agencies and Loan Factoring Services,303010101010,RBICS_IG,6
+Colleges,502510101510,RBICS_IG,6
+Colocation and Data Center Services,5520102010,RBICS_IG,5
+Commemoration Products Manufacturing,502510151015,RBICS_IG,6
+Commerce Equipment,55151010,RBICS_IG,4
+Commercial Bank and Credit Union Software,303015101010,RBICS_IG,6
+Commercial Class Printers Manufacturing,551510401010,RBICS_IG,6
+Commercial Document Security Providers,101010151015,RBICS_IG,6
+Commercial Electronics,551510,RBICS_IG,3
+Commercial Finance Services,30301010,RBICS_IG,4
+Commercial Insurance,3015102010,RBICS_IG,5
+Commercial Loans,303010101015,RBICS_IG,6
+Commercial Mortgage Banking and Services,3010151010,RBICS_IG,5
+Commercial Mortgage REITs,302520201010,RBICS_IG,6
+Commercial Printing Services,1010101510,RBICS_IG,5
+Commercial Property Insurance,301510201010,RBICS_IG,6
+Commercial Property Owners,302515151015,RBICS_IG,6
+Commercial Real Estate Services and Brokerage,3025151010,RBICS_IG,5
+Commercial Real Estate Services and Brokers,302515101010,RBICS_IG,6
+Commercial Service Industry Machinery Products,4010203010,RBICS_IG,5
+Commercial Specialty Engineering Contractors,401525102010,RBICS_IG,6
+Commercial Transportation Equipment Distributors,401520101510,RBICS_IG,6
+Commercial Transportation Equipment Manufacturing,40102510,RBICS_IG,4
+Commercial Vehicle Commercial Insurance,301510201015,RBICS_IG,6
+Commercial and Industrial Electric Products,40101510,RBICS_IG,4
+Commercial and Public Service Vehicles Makers,401025101510,RBICS_IG,6
+Commercial and Public Service Vehicles Production,4010251015,RBICS_IG,5
+Commercial and Residential Property Owners,302515151010,RBICS_IG,6
+Commercial/Public Service Vehicle Component Makers,4010251010,RBICS_IG,5
+Commodities Trading Services,302010252010,RBICS_IG,6
+Commodity Chemicals,451010,RBICS_IG,3
+Communication and Collaboration Content Sites,552010351015,RBICS_IG,6
+Communications Equipment,551515,RBICS_IG,3
+Communications Equipment Distributors,5515301010,RBICS_IG,5
+Communications Infrastructure Software,5520153510,RBICS_IG,5
+Communications Semiconductors,5510204010,RBICS_IG,5
+Composite Materials Manufacturing,45202020,RBICS_IG,4
+Compressor and Pumping Equipment Manufacturing,401020101515,RBICS_IG,6
+Computer Aided Design (CAD) Software,552015101010,RBICS_IG,6
+Computer Aided Design Software,5520151010,RBICS_IG,5
+Computer Chassis/Casings,551015101515,RBICS_IG,6
+Computer Display Equipment,5515201010,RBICS_IG,5
+Computer Hardware and Storage,551520,RBICS_IG,3
+Computer Hardware and Storage Distributors,5515301015,RBICS_IG,5
+Computer Peripherals,55152010,RBICS_IG,4
+Computer Systems,55152015,RBICS_IG,4
+Computer and Software Stores,2025151010,RBICS_IG,5
+"Concrete Blocks, Bricks and Aggregates Makers",451535201025,RBICS_IG,6
+Confectionery Manufacturing,501515153515,RBICS_IG,6
+Conferencing Equipment,5515151010,RBICS_IG,5
+Console Games Software,5520152010,RBICS_IG,5
+Construction Commercial Insurance,301510201020,RBICS_IG,6
+Construction Materials,451535,RBICS_IG,3
+Construction Wood Products,45201010,RBICS_IG,4
+Construction and Mining Machinery Distributors,401520101515,RBICS_IG,6
+Consulting and Business Process Services,101015152010,RBICS_IG,6
+Consulting/Business Process Outsourcing Services,10101515,RBICS_IG,4
+Consumer Batteries Manufacturing,5020101510,RBICS_IG,5
+Consumer Content Providers,5520103510,RBICS_IG,5
+Consumer Cyclicals,20,RBICS_IG,1
+Consumer Data and Services,55201010,RBICS_IG,4
+Consumer Electronics,551525,RBICS_IG,3
+Consumer Electronics Accessories Manufacturing,55152520,RBICS_IG,4
+Consumer Electronics Distributors,5515301020,RBICS_IG,5
+Consumer Electronics Stores,2025151020,RBICS_IG,5
+Consumer Electronics and Appliance Rental,2025151015,RBICS_IG,5
+Consumer Finance Services,30301015,RBICS_IG,4
+Consumer Goods,2010,RBICS_IG,2
+Consumer Non-Cyclicals,50,RBICS_IG,1
+Consumer Retail,2025,RBICS_IG,2
+Consumer Services,15,RBICS_IG,1
+Consumer Vehicle Manufacturing,20201015,RBICS_IG,4
+Consumer Vehicle Parts Manufacturing,20201010,RBICS_IG,4
+Consumer Vehicle Powertrain and Chassis Makers,2020101015,RBICS_IG,5
+Consumer Vehicle Wheels and Tires Manufacturing,2020101020,RBICS_IG,5
+Consumer Vehicles and Parts,2020,RBICS_IG,2
+Consumer Video Electronics Equipment,55152525,RBICS_IG,4
+Container Deep Sea and Offshore Shipping,401510101510,RBICS_IG,6
+Containers and Packaging,452015,RBICS_IG,3
+Content Management Software,5520151520,RBICS_IG,5
+Contract Electronic Manufacturing,55101510,RBICS_IG,4
+Contract Manufacturing Organizations,35152510,RBICS_IG,4
+Contract Research Organizations,35152515,RBICS_IG,4
+Convenience Foods and Meals Production,501515151020,RBICS_IG,6
+Convenience Stores,5010102010,RBICS_IG,5
+Conventional Engine Car Manufacturers,202010151015,RBICS_IG,6
+Conventional Flat Panel Display Equipment,5515203010,RBICS_IG,5
+Cookies and Crackers Manufacturing,501515153520,RBICS_IG,6
+Copper Ore Mining,451525101015,RBICS_IG,6
+Copper-Derived Structural Shape Manufacturing,451510203510,RBICS_IG,6
+Corn Farming,501510153515,RBICS_IG,6
+Corporate or Other Unallocated Revenue,9010,RBICS_IG,2
+Correctional Institutions,101020151010,RBICS_IG,6
+Corrugated Container Manufacturing,4520152010,RBICS_IG,5
+Cosmetics Manufacturing,5020201510,RBICS_IG,5
+Cosmetics Products,50202015,RBICS_IG,4
+Cotton Farming,501510153525,RBICS_IG,6
+Credit Cards,3030101520,RBICS_IG,5
+Credit Life,301510151015,RBICS_IG,6
+Credit and Information Bureaus,101015103010,RBICS_IG,6
+Credit or Collateralized Alternative Fund Managers,302010101010,RBICS_IG,6
+Crop Processing,501510251015,RBICS_IG,6
+Crop Production,50151015,RBICS_IG,4
+Crude Oil Distributors,2515101035,RBICS_IG,5
+Crude Oil Liquid Pipeline and Storage,2515152010,RBICS_IG,5
+Crude Oil Transportation,251020101010,RBICS_IG,6
+Cruise Lines,1510101010,RBICS_IG,5
+Cryptocurrency Mining,3030101545,RBICS_IG,5
+Cryptocurrency Trading and Exchanges,303010153030,RBICS_IG,6
+Custodial Services,302010251525,RBICS_IG,6
+Custom Printing Services,101010151020,RBICS_IG,6
+Customer Contact Centers,101015151010,RBICS_IG,6
+Customer Premises Network Security Equipment,5515153515,RBICS_IG,5
+Customer Relationship Management (CRM) Consulting,552020201020,RBICS_IG,6
+Customer Relationship Management Software,5520151525,RBICS_IG,5
+Customer Service Software,552015152510,RBICS_IG,6
+Dairy Alternative Products Manufacturing,501515151510,RBICS_IG,6
+Dairy Products Production,501515151520,RBICS_IG,6
+Dairy and Dairy Alternative Production,5015151515,RBICS_IG,5
+Data Storage Drives and Peripherals,5515202010,RBICS_IG,5
+Data Storage Hardware,55152020,RBICS_IG,4
+Data Storage Infrastructure Software,5520153515,RBICS_IG,5
+Data Storage Media,5515202015,RBICS_IG,5
+Data Transport Carrier Services,601010301015,RBICS_IG,6
+Death Care Services,5025101510,RBICS_IG,5
+Decorative Component Manufacturing,451535101015,RBICS_IG,6
+Defense Contractors,401010151020,RBICS_IG,6
+Defense Electronics Equipment Manufacturing,401010151025,RBICS_IG,6
+Defense Manufacturing,40101015,RBICS_IG,4
+Defense Training and Testing Providers,4010102015,RBICS_IG,5
+Deli-Style and Lunch Restaurants,151010251530,RBICS_IG,6
+Delivery and Logistics Services,401515,RBICS_IG,3
+Dental Devices,352020151015,RBICS_IG,6
+Department Stores,50101510,RBICS_IG,4
+Dermatology Biopharmaceuticals,35102015,RBICS_IG,4
+Design and Engineering Software,55201510,RBICS_IG,4
+"Design, Integration and Implementation Consulting",5520202510,RBICS_IG,5
+Desktop Computer Systems,5515201510,RBICS_IG,5
+Development and Design Services,552010251010,RBICS_IG,6
+Development and Manufacturing Services,35152520,RBICS_IG,4
+Diabetes Biopharmaceuticals,3510202510,RBICS_IG,5
+Diagnostics and Drug Delivery Devices,352010,RBICS_IG,3
+Diamond Mining,4515301510,RBICS_IG,5
+Diet and Weight Loss Centers,502510151510,RBICS_IG,6
+Dietary and Naturopathic Supplements,3515201010,RBICS_IG,5
+Digestive System Biopharmaceuticals,35102020,RBICS_IG,4
+Direct Marketing Services,101010101010,RBICS_IG,6
+Discount Stores,50101515,RBICS_IG,4
+Discrete Semiconductors,55102015,RBICS_IG,4
+Disk Storage Systems,551520202010,RBICS_IG,6
+Display Advertising Services,101010101515,RBICS_IG,6
+Distilleries,501515101015,RBICS_IG,6
+Diverse Alternative Investment Managers,302010101015,RBICS_IG,6
+Diverse Asset Management and Financial Advisors,3020101015,RBICS_IG,5
+Diverse Business Process Outsourcing Services,101015151015,RBICS_IG,6
+Diverse Construction and Engineering Services,4015251025,RBICS_IG,5
+Diverse Institutional/High-Net Advisory Finance,302010102510,RBICS_IG,6
+Diverse Nonmetallic Minerals Processors,4515151015,RBICS_IG,5
+Diverse Oil and Gas Field Equipment Manufacturing,251020151010,RBICS_IG,6
+Diversified Aerospace Manufacturing,401010201010,RBICS_IG,6
+Diversified Aerospace and Defense Manufacturing,40101020,RBICS_IG,4
+Diversified Agriculture Production,50151020,RBICS_IG,4
+Diversified Bioanalytical Instruments,351520251015,RBICS_IG,6
+Diversified Biopharmaceuticals,35101540,RBICS_IG,4
+Diversified Brokerage Services,302010251010,RBICS_IG,6
+Diversified Cleaning and Sanitizing Agents Makers,4510202510,RBICS_IG,5
+Diversified Commercial Insurance,301510201025,RBICS_IG,6
+Diversified Commodity Chemical Makers,4510101510,RBICS_IG,5
+Diversified Consumer Vehicle Manufacturing,202010151510,RBICS_IG,6
+Diversified Consumer Vehicle Parts Manufacturing,2020101025,RBICS_IG,5
+Diversified Content Management Software,552015152010,RBICS_IG,6
+Diversified Contract Manufacturing Organizations,351525102010,RBICS_IG,6
+Diversified Contract Research Organizations,3515251520,RBICS_IG,5
+Diversified Crop Production,5015101525,RBICS_IG,5
+Diversified Customer Relationship Software,552015152515,RBICS_IG,6
+Diversified Defense Providers,401010201020,RBICS_IG,6
+Diversified Development and Manufacturing Services,3515252010,RBICS_IG,5
+Diversified Electrical and Power System Makers,4010151510,RBICS_IG,5
+Diversified Electrical/Power System Manufacturing,401015151010,RBICS_IG,6
+Diversified Electronic Components,55101030,RBICS_IG,4
+Diversified Electronic Manufacturing and Services,55101515,RBICS_IG,4
+Diversified Electronic Media Services,55201015,RBICS_IG,4
+Diversified Electronic Media and Sites,5520101510,RBICS_IG,5
+Diversified Electronic Security Equipment,5515101515,RBICS_IG,5
+Diversified Enterprise Resource Planning Software,552015153015,RBICS_IG,6
+Diversified Flavors and Fragrances Manufacturing,451020101010,RBICS_IG,6
+Diversified Forestry and Paper Product Makers,4520101510,RBICS_IG,5
+Diversified General Waste Collection,1010251010,RBICS_IG,5
+Diversified Hazardous Materials Disposal,1010251510,RBICS_IG,5
+Diversified Healthcare Business Management,351510151010,RBICS_IG,6
+Diversified Healthcare Distributors,3515102010,RBICS_IG,5
+Diversified Healthcare Services,35152035,RBICS_IG,4
+Diversified Household Appliances and Tools,50201010,RBICS_IG,4
+Diversified Household Products Makers,50201515,RBICS_IG,4
+Diversified IT Infrastructure Software,5520153520,RBICS_IG,5
+Diversified Industrial Distribution,40152020,RBICS_IG,4
+Diversified Industrial Gas Manufacturing,451010151510,RBICS_IG,6
+Diversified Industrial Manufacturing,4010203025,RBICS_IG,5
+Diversified Industrials Distribution,401520,RBICS_IG,3
+Diversified Inorganic Chemical Makers,451010152015,RBICS_IG,6
+Diversified Insurance,30151030,RBICS_IG,4
+Diversified Investment,30201030,RBICS_IG,4
+Diversified Life and Health Insurance,301510151020,RBICS_IG,6
+Diversified Loan Services,3030101010,RBICS_IG,5
+Diversified Materials,45202015,RBICS_IG,4
+Diversified Medical Device OEMs,351525101510,RBICS_IG,6
+Diversified Medical Devices and Instruments,35201515,RBICS_IG,4
+Diversified Metal Ore Mining,4515251510,RBICS_IG,5
+Diversified Mortgage Banking,301015101510,RBICS_IG,6
+Diversified Oilseed and Grain Farming,501510153510,RBICS_IG,6
+Diversified Paper and Paper Products Manufacturing,4520102010,RBICS_IG,5
+Diversified Patient Care,3515152510,RBICS_IG,5
+Diversified Personal Services,502510151520,RBICS_IG,6
+Diversified Power Generation Equipment Makers,401015201010,RBICS_IG,6
+Diversified Primary Metals Processors,4515102015,RBICS_IG,5
+Diversified Professional Services,1010152015,RBICS_IG,5
+Diversified Property and Casualty Reinsurance,301510252015,RBICS_IG,6
+Diversified Pulp and Paper Mills,452010202010,RBICS_IG,6
+Diversified Real Estate Investment and Services,302515101510,RBICS_IG,6
+Diversified Residential Mortgage Banking/Services,301015102010,RBICS_IG,6
+Diversified Satellite Services,60101015,RBICS_IG,4
+Diversified Seafood Production,501510101510,RBICS_IG,6
+Diversified Semiconductor Capital Equipment,5510301025,RBICS_IG,5
+Diversified Semiconductor Capital Equipment Makers,551030102510,RBICS_IG,6
+Diversified Semiconductor Manufacturing Services,5510301520,RBICS_IG,5
+Diversified Semiconductors,5510202010,RBICS_IG,5
+Diversified Specialty/Performance Chemicals Makers,4510203010,RBICS_IG,5
+Diversified Technology Hardware,5515202515,RBICS_IG,5
+Document Duplication Equipment and Copier Makers,551510301010,RBICS_IG,6
+Document Duplication Equipment and Copiers,5515103010,RBICS_IG,5
+Document Management Software,552015152015,RBICS_IG,6
+Downstream Energy,251510,RBICS_IG,3
+Downstream and Midstream Energy,2515,RBICS_IG,2
+Dredging and Marine Construction,401525101015,RBICS_IG,6
+Drug Delivery Devices,35201015,RBICS_IG,4
+Drug Delivery Technology,3515202010,RBICS_IG,5
+Drug Delivery Technology Development,351520201010,RBICS_IG,6
+Drug Development Software,351510151510,RBICS_IG,6
+Drug Discovery Services,3515202015,RBICS_IG,5
+"Drug Lead Discovery, Validation and Optimization",351520201510,RBICS_IG,6
+Drug Target Discovery and Validation,351520201515,RBICS_IG,6
+Dry Bulk Deep Sea and Offshore Shipping,401510101515,RBICS_IG,6
+Dry and Shelf-Stable Meals Production,501515151025,RBICS_IG,6
+Dyes and Pigments Manufacturing,451020102010,RBICS_IG,6
+E-Commerce Service Providers,552010251015,RBICS_IG,6
+EMEA Investment Banking and Corporate Finance,302010151520,RBICS_IG,6
+ETFs and Unit Investment Trust Managers,302010103015,RBICS_IG,6
+"Ear, Nose and Throat (ENT) Devices",352020151020,RBICS_IG,6
+Eastern Region Fossil Fuel Exploration/Production,251015101510,RBICS_IG,6
+Education Finance,3030101525,RBICS_IG,5
+Education Information and News Media and Sites,552010101020,RBICS_IG,6
+Educational Services,50251010,RBICS_IG,4
+Educational Software,5520152510,RBICS_IG,5
+Educational Support Services,502510101010,RBICS_IG,6
+Electric Motors Manufacturing,401015101010,RBICS_IG,6
+Electric Utilities,65101010,RBICS_IG,4
+Electric Vehicle Batteries Manufacturing,401015101545,RBICS_IG,6
+Electric Vehicle Charging Stations,20151535,RBICS_IG,4
+Electrical Equipment and Power Systems,401015,RBICS_IG,3
+Electrical Equipment and Wiring Distributors,401520101520,RBICS_IG,6
+Electrical Systems and Equipment Manufacturing,401015101515,RBICS_IG,6
+Electronic Cigarette Manufacturing,50152025,RBICS_IG,4
+Electronic Components,551010,RBICS_IG,3
+Electronic Components Distributors,5515301510,RBICS_IG,5
+Electronic Components and Manufacturing,5510,RBICS_IG,2
+Electronic Design Automation Software,5520151015,RBICS_IG,5
+Electronic Display and Billboard Manufacturing,551510251015,RBICS_IG,6
+Electronic Equipment Manufacturing,551025,RBICS_IG,3
+Electronic Gaming Equipment,151010151515,RBICS_IG,6
+Electronic Gaming/Entertainment Electronics Makers,55152530,RBICS_IG,4
+Electronic Interconnect Components,5510101015,RBICS_IG,5
+Electronic Materials Manufacturing,4510203015,RBICS_IG,5
+Electronic Payment Processing,303010153015,RBICS_IG,6
+Electronic Security Equipment,55151015,RBICS_IG,4
+Electronic Security Identification Equipment,5515101520,RBICS_IG,5
+Electronic System Security Equipment,5515101530,RBICS_IG,5
+Electronic Transaction Processing/Clearinghouses,3030101530,RBICS_IG,5
+Electronic Waste Services,1010251515,RBICS_IG,5
+Electronics Manufacturing Equipment,55102510,RBICS_IG,4
+Electronics Manufacturing Equipment Manufacturing,5510251010,RBICS_IG,5
+Electronics Retail,20251510,RBICS_IG,4
+Electronics and Entertainment Retail,202515,RBICS_IG,3
+Emission Control Services and Technologies,1010251520,RBICS_IG,5
+End-User Telephony Equipment,5515151015,RBICS_IG,5
+Endocrinology and Metabolism Biopharmaceuticals,35102025,RBICS_IG,4
+Energy,25,RBICS_IG,1
+Energy Efficient Lighting and LED Manufacturing,401015151510,RBICS_IG,6
+Energy Industry Software,251020205010,RBICS_IG,6
+Energy Utilities,651010,RBICS_IG,3
+Energy and Utilities IT Services,251020204510,RBICS_IG,6
+Engineered Rubber Products,4510251010,RBICS_IG,5
+Engineered Rubber Products Manufacturing,451025101010,RBICS_IG,6
+Engineered Wood Products Manufacturing,4520101010,RBICS_IG,5
+Enhanced Telecommunications Services Software,601010351010,RBICS_IG,6
+Enterprise Management Software,55201515,RBICS_IG,4
+Enterprise Middleware Software,5520153525,RBICS_IG,5
+Enterprise Resource Planning Software,5520151530,RBICS_IG,5
+Enterprise Security Management Software,552015154010,RBICS_IG,6
+Entertainment Retail,20251515,RBICS_IG,4
+Entertainment and Programming Providers,15151015,RBICS_IG,4
+Environmental Consulting,1010253015,RBICS_IG,5
+Environmental Control Machinery/Equipment Products,4010201010,RBICS_IG,5
+Environmental Services,10102530,RBICS_IG,4
+Equipment and Supplies Distributors,40152010,RBICS_IG,4
+Equities Trading Services,302010252015,RBICS_IG,6
+Equity Fund Managers,302010103010,RBICS_IG,6
+Equity Mutual Fund Managers,302010102010,RBICS_IG,6
+Equity REITs,30252015,RBICS_IG,4
+Ethanol Fuel Manufacturing,451010101515,RBICS_IG,6
+Europe Air Passenger Service Providers,4015301020,RBICS_IG,5
+Europe Banks,3010102015,RBICS_IG,5
+Europe Biomass Wholesale Power,651010501030,RBICS_IG,6
+Europe CNG and LNG Distributors,251510101030,RBICS_IG,6
+Europe Coal Mining,251010201015,RBICS_IG,6
+Europe Crude Oil Liquid Pipeline/Storage,251515201020,RBICS_IG,6
+Europe Decentralized Wholesale Power,651010501035,RBICS_IG,6
+Europe Department Stores,5010151020,RBICS_IG,5
+Europe Fossil Fuel Exploration/Production,2510152015,RBICS_IG,5
+Europe Fossil Fuel Wholesale Power,651010501020,RBICS_IG,6
+Europe Geothermal Wholesale Power,651010501040,RBICS_IG,6
+Europe Gold Ore Mining,451525202010,RBICS_IG,6
+Europe Hydroelectric Wholesale Power,651010501045,RBICS_IG,6
+Europe Mixed Alternative Wholesale Power,651010501010,RBICS_IG,6
+Europe Mixed Traditional Fuel Wholesale Power,651010501025,RBICS_IG,6
+Europe Mixed Wholesale Power,651010501015,RBICS_IG,6
+Europe Natural Gas Pipeline and Storage,251515101020,RBICS_IG,6
+Europe Natural Gas Utilities,651010151020,RBICS_IG,6
+Europe Nuclear Wholesale Power,651010501060,RBICS_IG,6
+Europe Petroleum Refineries,2515101520,RBICS_IG,5
+Europe Petroleum Storage and Transport,251510102530,RBICS_IG,6
+Europe Propane and LPG Marketing and Dist.,251510103030,RBICS_IG,6
+Europe Solar Wholesale Power,651010501050,RBICS_IG,6
+Europe Supermarkets,501010202015,RBICS_IG,6
+Europe Wholesale Power,6510105010,RBICS_IG,5
+Europe Wind Wholesale Power,651010501055,RBICS_IG,6
+"Europe, Middle East and Africa Banks",30101020,RBICS_IG,4
+"Europe, Middle East and Africa Electric Utilities",651010101015,RBICS_IG,6
+"Europe, Middle East and Africa Rail Transportation",401510201015,RBICS_IG,6
+"Europe, Middle East and Africa Water Utilities",651015101020,RBICS_IG,6
+"Europe, Middle East and Africa Wireless Services",6010151020,RBICS_IG,5
+"Europe, Middle East and Africa Wireline Services",6010151520,RBICS_IG,5
+"Events, Tickets and Mixed-Type Recreation",151010152010,RBICS_IG,6
+Execution and Quote Platforms Services,552010301010,RBICS_IG,6
+Executive Search Consulting Services,101015101015,RBICS_IG,6
+Express Couriers,40151510,RBICS_IG,4
+Fabricated Aluminum Structural Shape Manufacturing,451510201020,RBICS_IG,6
+Fabricated Pipes and Pipe Fittings Products,4515101015,RBICS_IG,5
+Facilities Support Services,1010201010,RBICS_IG,5
+Facilities and Construction Services,401525,RBICS_IG,3
+Facilities and Other Support Services,10102010,RBICS_IG,4
+Factory Automation Equipment,40102015,RBICS_IG,4
+Family Investment Offices,302010102525,RBICS_IG,6
+Farm/Garden Machinery and Equipment Distributors,401520101525,RBICS_IG,6
+Fast Casual Restaurants,1510102520,RBICS_IG,5
+Fasteners Manufacturing,4515101020,RBICS_IG,5
+Fertilizers Manufacturing,4510202010,RBICS_IG,5
+"Fibers, Polymers and Resins Manufacturing",4510203510,RBICS_IG,5
+Film Passive Capacitor Electronic Components,551010253010,RBICS_IG,6
+Film and Imaging Chemicals Manufacturing,4510203020,RBICS_IG,5
+Final Dosage Forms OEMs,351525101020,RBICS_IG,6
+Finance,30,RBICS_IG,1
+Finance Industry Software,3030151010,RBICS_IG,5
+Finance Information and News Media and Sites,552010101025,RBICS_IG,6
+Finance Software and Services,303015,RBICS_IG,3
+Finance and Banking Systems Production,551510201015,RBICS_IG,6
+Finance/Banking Industry Electronics Production,55151020,RBICS_IG,4
+Financial Guaranty Commercial Insurance,301510201030,RBICS_IG,6
+Financial Reference Data Content Providers/Sites,552010301015,RBICS_IG,6
+Financial Services IT Services,3030151015,RBICS_IG,5
+Financial and Compliance ERP Software,552015153020,RBICS_IG,6
+Financially Operative Institutions,Non_RBICS_classification,Non_RBICS_IG,2
+Fine China and Crystal and Home Decor Products,201020101015,RBICS_IG,6
+Fish Farming and Hatcheries,501510101515,RBICS_IG,6
+Fitness and Exercise Equipment,2010152010,RBICS_IG,5
+Fitness and Recreational Sports Centers,151010151015,RBICS_IG,6
+Fixed Microwave Systems Equipment,5515154015,RBICS_IG,5
+Flash Memory Semiconductors,551020251010,RBICS_IG,6
+Flat Panel Display-Specific Equipment Makers,551030101510,RBICS_IG,6
+Flavors and Other Food Additives Manufacturing,451020101015,RBICS_IG,6
+Flexible Circuit Manufacturing,5510152010,RBICS_IG,5
+Flooring Manufacturing,451535101020,RBICS_IG,6
+"Flour, Pasta and Rice Manufacturing",501515153015,RBICS_IG,6
+Folding Carton Manufacturing,4520152015,RBICS_IG,5
+Food Animal Production,5015101010,RBICS_IG,5
+Food Delivery Services,1510102020,RBICS_IG,5
+Food Production,50151515,RBICS_IG,4
+Food Production Machinery Manufacturing,401020151520,RBICS_IG,6
+Food Service Contractors,1510102010,RBICS_IG,5
+Food and Beverage Distributors,5010102515,RBICS_IG,5
+Food and Beverage Production,501515,RBICS_IG,3
+Food and Beverage Retail,501010,RBICS_IG,3
+Food and Staples Retail,5010,RBICS_IG,2
+Food and Tobacco Production,5015,RBICS_IG,2
+Footwear Production,2010101520,RBICS_IG,5
+Footwear Retail,20251025,RBICS_IG,4
+Footwear Stores,2025102510,RBICS_IG,5
+Forestry and Paper Products,452010,RBICS_IG,3
+Fossil Fuel Exploration and Production,251015,RBICS_IG,3
+Foundation and Endowment Managers,302010101040,RBICS_IG,6
+Fragrance and Personal Care Additive Manufacturing,451020101020,RBICS_IG,6
+Freight Less-Than-Truckload Road Transportation,401510201510,RBICS_IG,6
+Freight Truckload Road Transportation,401510201515,RBICS_IG,6
+Fresh Fruits and Vegetables Retail,5010102520,RBICS_IG,5
+"Fruit, Nut and Vegetable Farming",5015101520,RBICS_IG,5
+Fuel Cell Equipment and Technology Providers,401015201510,RBICS_IG,6
+Fuel and Lubricant Additive Manufacturing,451020101510,RBICS_IG,6
+"Fuel, Component and Maintenance Providers",401510101020,RBICS_IG,6
+Full Service CRO,3515251525,RBICS_IG,5
+Full Service CROs,351525152510,RBICS_IG,6
+Full Service Hotels and Resorts,151010102515,RBICS_IG,6
+Full-Service Restaurants and Bars,1510102510,RBICS_IG,5
+Funds Management and Advisors,3020101020,RBICS_IG,5
+Funds and Trusts,302010102015,RBICS_IG,6
+Funeral and Cemetery Services,502510151020,RBICS_IG,6
+Furniture Stores,2025201510,RBICS_IG,5
+Furniture and Home Furnishings Stores,20252015,RBICS_IG,4
+Fuse Passive Electronic Components,5510102510,RBICS_IG,5
+Games Software,55201520,RBICS_IG,4
+Gaming Industries,1510101515,RBICS_IG,5
+Garbage Services,1010251015,RBICS_IG,5
+Garden Products,2010151010,RBICS_IG,5
+Garden Products Manufacturing,201015101010,RBICS_IG,6
+Gasification Alternative Fuel Manufacturing,451010101520,RBICS_IG,6
+Gasoline Stations,20151515,RBICS_IG,4
+Gastroenterology Devices,352020151510,RBICS_IG,6
+Gastrointestinal Tract Biopharmaceuticals,3510202015,RBICS_IG,5
+General Accessories Retail,2025101010,RBICS_IG,5
+General Amusement and Recreation Centers,151010151020,RBICS_IG,6
+General Analog and Mixed Signal Semiconductors,5510201010,RBICS_IG,5
+General Animal Production,501510101025,RBICS_IG,6
+General Apparel Accessories Retail,202510101010,RBICS_IG,6
+General Architectural Component Manufacturing,451535101025,RBICS_IG,6
+General Automobile Dealers,201510151010,RBICS_IG,6
+General Automotive Services,2015101015,RBICS_IG,5
+General Aviation Equipment Manufacturing,401010101030,RBICS_IG,6
+General Beverage Production,5015151015,RBICS_IG,5
+General Building Materials Distribution,401520251010,RBICS_IG,6
+General Carrier Edge (Access) Equipment,551515352015,RBICS_IG,6
+General Carrier Edge and Access Equipment,5515153520,RBICS_IG,5
+General Clinical Diagnostics Devices,352010101510,RBICS_IG,6
+General Clinical Laboratories,351515151010,RBICS_IG,6
+General Coatings and Paints Makers,4510201520,RBICS_IG,5
+General Commercial Electronics Manufacturers,5515103510,RBICS_IG,5
+General Commercial Finance,303010102010,RBICS_IG,6
+General Communications Equipment,5515152510,RBICS_IG,5
+General Communications Services,6010104010,RBICS_IG,5
+General Computer Hardware,55152025,RBICS_IG,4
+General Computer Hardware Manufacturing,5515202510,RBICS_IG,5
+General Construction Materials Manufacturing,45153515,RBICS_IG,4
+General Consumer Content Providers,552010351020,RBICS_IG,6
+General Consumer Electronics Manufacturing,55152535,RBICS_IG,4
+General Consumer Finance Services,3030101535,RBICS_IG,5
+General Customer Premises Equipment,5515153525,RBICS_IG,5
+General Customer Premises Equipment (CPE),551515352510,RBICS_IG,6
+General Death Care Services,502510151025,RBICS_IG,6
+General Delivery and Logistics Providers,40151515,RBICS_IG,4
+General Discount Stores,5010151510,RBICS_IG,5
+General Electronic Components Distributors,551530151010,RBICS_IG,6
+General Electronics Distributors,5515301515,RBICS_IG,5
+General Electronics Retail,2025151025,RBICS_IG,5
+General Enterprise Management Software,5520151535,RBICS_IG,5
+General Enterprise and Technology Consulting,55202010,RBICS_IG,4
+General Entertainment Content Providers and Sites,552010351025,RBICS_IG,6
+General Entertainment and Programming,151510151025,RBICS_IG,6
+General Facilities and Other Support Services,101020101015,RBICS_IG,6
+General Factory Automation Makers,401020152510,RBICS_IG,6
+General Food Manufacturing and Processing,5015151520,RBICS_IG,5
+General Food and Beverage Production,50151520,RBICS_IG,4
+General Food and Beverage Retail,50101015,RBICS_IG,4
+General Food and Beverage Services,1510102015,RBICS_IG,5
+General Furniture and Home Furnishings Retail,202520151510,RBICS_IG,6
+General Furniture and Home Furnishings Stores,2025201515,RBICS_IG,5
+General Gaming Industries,151010151520,RBICS_IG,6
+General Gaming Products and Services,151010151525,RBICS_IG,6
+General Infectious Diseases Biopharmaceuticals,351010101510,RBICS_IG,6
+General Information Technology (IT) Consulting,552020201025,RBICS_IG,6
+General Information and News Media and Sites,552010101030,RBICS_IG,6
+General Infrastructure and Network Consulting,5520202515,RBICS_IG,5
+General Internet and Online Services,552010251020,RBICS_IG,6
+General Laboratory Equipment,351520251510,RBICS_IG,6
+General Leisure Goods,2010151015,RBICS_IG,5
+General Leisure Goods Manufacturing,201015101510,RBICS_IG,6
+General Liability Commercial Insurance,301510201035,RBICS_IG,6
+General Limited-Service and Fast Food Restaurants,151010251510,RBICS_IG,6
+General Line Grocery Retail,5010102525,RBICS_IG,5
+General Machinery Manufacturing,4010203015,RBICS_IG,5
+General Medical Devices,352015,RBICS_IG,3
+General Merchandise Retail,501015,RBICS_IG,3
+General Merchandise Retailers,50101520,RBICS_IG,4
+General Metal Parts and Components Makers,4515101025,RBICS_IG,5
+General Metal and Mineral Product Manufacturing,45152010,RBICS_IG,4
+General Metal and Mineral Products Manufacturing,4515201010,RBICS_IG,5
+General Motor Vehicle Sales,201510151515,RBICS_IG,6
+General Motor Vehicles and Parts Retail,2015102020,RBICS_IG,5
+General Nonmetallic Mineral Mining,4515301515,RBICS_IG,5
+General Oil and Gas Operations Support Activities,2510202010,RBICS_IG,5
+General Personal Care and Cleaning Products Makers,50202025,RBICS_IG,4
+General Plastic and Rubber Manufacturing,4510251015,RBICS_IG,5
+General Printing Services,101010151510,RBICS_IG,6
+General Professional Content Providers and Sites,552010301020,RBICS_IG,6
+General Publishing,151510202015,RBICS_IG,6
+General Purpose Test and Measurement Equipment,5515104510,RBICS_IG,5
+General Scientific Products,3515202515,RBICS_IG,5
+General Security Services,101020151015,RBICS_IG,6
+General Semiconductors,55102020,RBICS_IG,4
+General Spectator Sports and Performing Arts,151010153010,RBICS_IG,6
+General Support Activity Providers for Agriculture,501510251030,RBICS_IG,6
+General Surgical Devices,352015102010,RBICS_IG,6
+General Textiles Makers,4520201015,RBICS_IG,5
+General Tobacco Manufacturing,50152015,RBICS_IG,4
+General Transportation Equipment Manufacturing,40102515,RBICS_IG,4
+General Transportation and Related Services,40151015,RBICS_IG,4
+General United States Telecommunications Services,601010251010,RBICS_IG,6
+General Waste Collection,10102510,RBICS_IG,4
+General and Acute Hospitals,3515151010,RBICS_IG,5
+General and Mixed-Type Software,55201540,RBICS_IG,4
+General or Multi-Industry Revenue,9015,RBICS_IG,2
+Genetic Molecular Diagnostic Test Kits,3520101020,RBICS_IG,5
+Gifts and Celebration Goods Retail,202515151510,RBICS_IG,6
+Glass Container Manufacturing,4520151510,RBICS_IG,5
+Global Energy Utilities,6510102010,RBICS_IG,5
+Global Mixed TV Cable and Broadcast Networks,151510151520,RBICS_IG,6
+Global Positioning Systems (GPS) Manufacturing,5515153015,RBICS_IG,5
+Golf Courses and Country Clubs,151010151025,RBICS_IG,6
+Golf Equipment,2010152015,RBICS_IG,5
+Government IT Services,101015101510,RBICS_IG,6
+Government Managed Care,3515101010,RBICS_IG,5
+Government and Not-For-Profit Industry Software,1010151020,RBICS_IG,5
+Government and Public Service Industry Software,101015102010,RBICS_IG,6
+Governments and Governmental Entities,Non_RBICS_classification,Non_RBICS_IG,2
+Grain-Based Food Product Manufacturing,501515153020,RBICS_IG,6
+Graphic Design and Promotional Collateral Products,101010151025,RBICS_IG,6
+Greenhouse Gas Emission Services,1010253020,RBICS_IG,5
+Greeting Cards and Giftware Manufacturing,201015102010,RBICS_IG,6
+Greeting Cards and Giftware Products,2010151020,RBICS_IG,5
+Grocery Stores,50101020,RBICS_IG,4
+Gulf Coast Fossil Fuel Exploration/Production,251015102010,RBICS_IG,6
+Gulf of Mexico Fossil Fuel Exploration/Production,251015102015,RBICS_IG,6
+Gynecology Biopharmaceuticals,3510205010,RBICS_IG,5
+HVAC Equipment and Supplies Distributors,401520101015,RBICS_IG,6
+Hair Care Products,50202030,RBICS_IG,4
+Handheld and Smart Phone Games Software,552015201510,RBICS_IG,6
+Handheld and Smart Phone Software,5520152515,RBICS_IG,5
+Handheld/Smart Phone Games Software,5520152015,RBICS_IG,5
+Hardware,5515,RBICS_IG,2
+Hardware Components,55152030,RBICS_IG,4
+"Hardware, Plumbing and HVAC Supplies",401520101010,RBICS_IG,6
+"Hardware, Plumbing, Heating Supplies Distributors",4015201010,RBICS_IG,5
+Hazardous Materials Disposal,10102515,RBICS_IG,4
+Hazardous/Industrial Waste Disposal,1010251525,RBICS_IG,5
+Health Insurance,301510151510,RBICS_IG,6
+Health Plan Providers,35151010,RBICS_IG,4
+Health and Personal Care Retail,501020,RBICS_IG,3
+Healthcare,35,RBICS_IG,1
+Healthcare Administrative Support Services,35151015,RBICS_IG,4
+Healthcare Business Management Services,3515101510,RBICS_IG,5
+Healthcare Consulting,3515102515,RBICS_IG,5
+Healthcare Distributors,35151020,RBICS_IG,4
+Healthcare Equipment,3520,RBICS_IG,2
+Healthcare Facility Business Management,351510151015,RBICS_IG,6
+Healthcare General Support Services,3515102520,RBICS_IG,5
+Healthcare IT Services,3515102525,RBICS_IG,5
+Healthcare Management Software,351510151515,RBICS_IG,6
+Healthcare Operations Support Software,351510151520,RBICS_IG,6
+Healthcare Services,3515,RBICS_IG,2
+Healthcare Staffing and Recruiting,3515102530,RBICS_IG,5
+Healthcare Support Services,351510,RBICS_IG,3
+Healthcare and Life Sciences Equity REITs,302520151015,RBICS_IG,6
+Healthcare and Pharma Industry Software,3515101515,RBICS_IG,5
+Heart Disorders Biopharmaceuticals,3510201015,RBICS_IG,5
+"Heating, Ventilation and Air Conditioning Products",401020101015,RBICS_IG,6
+Heavy Building Material and Aggregate Products,45153520,RBICS_IG,4
+Heavy Duty Trucks and Trailers Makers,401025102010,RBICS_IG,6
+Heavy Duty Trucks and Trailers Manufacturing,4010251020,RBICS_IG,5
+Heavy-Duty Industrial Batteries Manufacturing,401015101535,RBICS_IG,6
+Hedge Funds Managers,302010101055,RBICS_IG,6
+Hematological Oncology Biopharmaceuticals,3510101515,RBICS_IG,5
+Hematology Biopharmaceuticals,35102030,RBICS_IG,4
+Hog and Pig Farming,501510101030,RBICS_IG,6
+Home Builders,20152015,RBICS_IG,4
+Home Builders and Manufactured Buildings,201520,RBICS_IG,3
+Home Centers and Hardware Stores,202520101015,RBICS_IG,6
+Home Decor and Furnishings Stores,2025201520,RBICS_IG,5
+Home Furnishing Manufacturing,5020152010,RBICS_IG,5
+Home Healthcare,3515152015,RBICS_IG,5
+Home Improvement Retail,202520,RBICS_IG,3
+Home Testing Clinical Diagnostics Devices,352010101015,RBICS_IG,6
+Home and Office Furnishings Manufacturing,50201520,RBICS_IG,4
+Home and Office Multimedia Software,5520152520,RBICS_IG,5
+Home and Office Productivity Peripherals,5515201015,RBICS_IG,5
+Home and Office Software,55201525,RBICS_IG,4
+Home and Office Virtual Reality Software,552015252015,RBICS_IG,6
+Homeowners and Renters Insurance,301510201515,RBICS_IG,6
+Horse Racing and Intertrack Wagering Systems,151010151530,RBICS_IG,6
+Hospitality IT Services,1510101020,RBICS_IG,5
+Hospitality Industry Software,1510101015,RBICS_IG,5
+Hospitality Services,1510,RBICS_IG,2
+"Hotels, Motels and Resorts",1510101025,RBICS_IG,5
+Household Appliance Stores,2025151030,RBICS_IG,5
+Household Appliances and Furnishings Production,201020,RBICS_IG,3
+Household Appliances and Tools,502010,RBICS_IG,3
+Household Cleaning Products,50202035,RBICS_IG,4
+Household Furnishings Production,2010201010,RBICS_IG,5
+Household Furniture Manufacturing,201020101020,RBICS_IG,6
+Household Products,5020,RBICS_IG,2
+Household Robot Makers,5020101540,RBICS_IG,5
+Household Services,5025,RBICS_IG,2
+Human Interface Peripherals,5515201020,RBICS_IG,5
+Human Resources Consulting Services,101015101020,RBICS_IG,6
+Human Resources ERP Software,552015153025,RBICS_IG,6
+"Hunting, Fishing and Camping Goods",2010152020,RBICS_IG,5
+Hydroelectric Power Generation Equipment Providers,401015201535,RBICS_IG,6
+Hydrogen Fuel Manufacturing,451010101545,RBICS_IG,6
+Hydrogen Gas Manufacturing,451010151525,RBICS_IG,6
+IC-Level Electronic Design Software,552015101510,RBICS_IG,6
+IC-Level Intellectual Property Software Libraries,552015101515,RBICS_IG,6
+IT Hardware Distributors,55153010,RBICS_IG,4
+IT Infrastructure Software,55201535,RBICS_IG,4
+Image Sensor and Image Capture Semiconductors,551020401515,RBICS_IG,6
+Imaging Laboratories,351515151510,RBICS_IG,6
+Immune Deficiency Disorders Biopharmaceuticals,3510203515,RBICS_IG,5
+Immunoassays Clinical Diagnostics Devices,352010101515,RBICS_IG,6
+Immunology Biopharmaceuticals,35102035,RBICS_IG,4
+Industrial Construction Contractors,401525102015,RBICS_IG,6
+Industrial Cooling and Heating Systems Products,401020101020,RBICS_IG,6
+Industrial Equipment Leasing Services,303010101515,RBICS_IG,6
+Industrial Fabrics Manufacturing,4520201020,RBICS_IG,5
+Industrial Gas Manufacturing,4510101515,RBICS_IG,5
+Industrial Glass Products Manufacturing,4515151020,RBICS_IG,5
+Industrial Machine Parts and Support Equipment,40102020,RBICS_IG,4
+Industrial Machinery and Equipment Distributors,401520101530,RBICS_IG,6
+Industrial Machinery and Supplies Distributors,4015201015,RBICS_IG,5
+Industrial Manufacturing,4010,RBICS_IG,2
+Industrial Robots and Material Handler Equipment,4010201510,RBICS_IG,5
+Industrial Robots and Robotic Assembly Line Makers,401020151010,RBICS_IG,6
+Industrial Services,4015,RBICS_IG,2
+Industrial and Construction Additive Manufacturing,451020101515,RBICS_IG,6
+Industrial and Engineering Hand Tool Manufacturing,4010203510,RBICS_IG,5
+Industrial and Warehouse Equity REITs,302520151025,RBICS_IG,6
+Industrials,40,RBICS_IG,1
+Industry-Specific Factory Automation Equipment,4010201515,RBICS_IG,5
+Industry-Specific IT Services,55202015,RBICS_IG,4
+Industry-Specific Software,55201530,RBICS_IG,4
+Infectious Disease Biopharmaceuticals,35101010,RBICS_IG,4
+Information Storage Systems,551520202015,RBICS_IG,6
+Information Technology Consulting,55202020,RBICS_IG,4
+Information Technology Distribution,551530,RBICS_IG,3
+Information and Disk Storage Systems,5515202020,RBICS_IG,5
+Information and News Content Providers and Sites,5520101010,RBICS_IG,5
+Infrastructure Construction,4015251010,RBICS_IG,5
+Infrastructure Construction/Contracting Services,40152510,RBICS_IG,4
+Infrastructure Consulting and Design Services,4015251015,RBICS_IG,5
+Infrastructure and Network Consulting Services,55202025,RBICS_IG,4
+Infusion Therapy Devices,3520101510,RBICS_IG,5
+Inland Waterways Shipping,401510101520,RBICS_IG,6
+Inland and Ocean Marine Commercial Insurance,301510201040,RBICS_IG,6
+Inorganic Chemical Manufacturing,4510101520,RBICS_IG,5
+Input/Output (I/O) Adapter and Interface Devices,5515201025,RBICS_IG,5
+Inspection and Detection Systems Manufacturing,5515101525,RBICS_IG,5
+Institutional Brokerage Services,302010251015,RBICS_IG,6
+Institutional Financial Advisors,302010102515,RBICS_IG,6
+Institutional Financial and Research Content Sites,552010301025,RBICS_IG,6
+Institutional and High-Net Advisory Services,3020101025,RBICS_IG,5
+Insulation Manufacturing,451535101510,RBICS_IG,6
+Insurance,3015,RBICS_IG,2
+Insurance Brokerage,30151010,RBICS_IG,4
+Insurance Claims and Risk Management Services,101015152015,RBICS_IG,6
+Insurance Software,303015101015,RBICS_IG,6
+"Integrated Books, Movies and Music Retail",2025151510,RBICS_IG,5
+Integrated Oil and Gas Exploration and Production,Non_RBICS_classification,Non_RBICS_IG,2
+Integrated Specialty Steel Mills Manufacturing,451510202025,RBICS_IG,6
+Integrated Steel Mills Manufacturing Flats,451510202010,RBICS_IG,6
+Integrated Steel Mills Manufacturing Longs,451510202015,RBICS_IG,6
+Integrated Steel Mills Mixed Production Makers,451510202020,RBICS_IG,6
+Integrated Steel Mills Tubular Product Makers,451510202030,RBICS_IG,6
+Integrated Steel Mills and Products Manufacturing,4515102020,RBICS_IG,5
+Interconnect Electronic Components,55101010,RBICS_IG,4
+Interconnect Fabrication,55101520,RBICS_IG,4
+Interior/Exterior Covering Materials Distribution,401520251510,RBICS_IG,6
+Intermediary Metabolism Biopharmaceuticals,3510202515,RBICS_IG,5
+International Banks,301010,RBICS_IG,3
+International Electric Utilities,6510101010,RBICS_IG,5
+International Electricity Generator Utilities,651010101020,RBICS_IG,6
+International Fixed Satellite Services,601010201010,RBICS_IG,6
+International Full-Service Restaurants and Bars,151010251015,RBICS_IG,6
+International Mobile Satellite Services,601010201015,RBICS_IG,6
+International Natural Gas Pipeline and Storage,2515151010,RBICS_IG,5
+International Natural Gas Utilities,6510101510,RBICS_IG,5
+International Satellite Services,60101020,RBICS_IG,4
+International TV Cable and Broadcast Networks,151510151515,RBICS_IG,6
+International Water Utilities,65101510,RBICS_IG,4
+Internet Accessories Retail,202510101015,RBICS_IG,6
+Internet Apparel Retail,202510201530,RBICS_IG,6
+Internet Automotive Parts Sales,201510201525,RBICS_IG,6
+Internet Building Materials / Garden Supply Retail,202520101520,RBICS_IG,6
+Internet Department Stores,5010151030,RBICS_IG,5
+Internet Discount Stores,5010151515,RBICS_IG,5
+Internet Electronics Retail,2025151035,RBICS_IG,5
+Internet Entertainment Retail,2025151520,RBICS_IG,5
+Internet Footwear Retail,2025102515,RBICS_IG,5
+Internet Furniture and Home Furnishings Retail,2025201525,RBICS_IG,5
+Internet Hosting Services,55201020,RBICS_IG,4
+Internet Motor Vehicle Sales,201510151520,RBICS_IG,6
+Internet Off-Price Retail,5010152515,RBICS_IG,5
+Internet Office Supplies Retail,201515201015,RBICS_IG,6
+Internet Pet and Pet Supply Retail,201515251015,RBICS_IG,6
+Internet Pharmacies and Drug Retail,5010201515,RBICS_IG,5
+Internet Support Services,55201025,RBICS_IG,4
+Internet Warehouse / Superstore Retail,5010153015,RBICS_IG,5
+Internet and Data Services,552010,RBICS_IG,3
+Intimates and Sleepwear Production,201010151535,RBICS_IG,6
+Investment Banking and Corporate Finance,30201015,RBICS_IG,4
+Investment Companies,302010203510,RBICS_IG,6
+Investment Company,3020102035,RBICS_IG,5
+Investment Holding Companies,30201020,RBICS_IG,4
+Investment Management/Brokerage Software,303015101020,RBICS_IG,6
+Investment Services,3020,RBICS_IG,2
+Iron Ore Mining,451525101510,RBICS_IG,6
+Issuance and Securitization Services,302010251515,RBICS_IG,6
+Janitorial and Industrial Cleaning Services,101020101020,RBICS_IG,6
+"Jelly, Syrup and Topping Manufacturing",501515153525,RBICS_IG,6
+Jewelry Stores,2025101015,RBICS_IG,5
+Jewelry and Gems Production,201010101010,RBICS_IG,6
+Jewelry and Other Accessories Production,2010101010,RBICS_IG,5
+Joint Replacement and Reconstruction Devices,352015101510,RBICS_IG,6
+Juice Manufacturing,501515102025,RBICS_IG,6
+"Juices, Soft Drinks and Energy Drinks Production",501515102030,RBICS_IG,6
+Kids and Maternity Apparel Stores,202510201515,RBICS_IG,6
+Kitchen and Housewares Manufacturing,502015201025,RBICS_IG,6
+LNG (Liquid Natural Gas) Transportation,251020101020,RBICS_IG,6
+"LPG, Propane and Other Distributors",25151010,RBICS_IG,4
+Land Equity REITs,302520151030,RBICS_IG,6
+Landfill Services,1010251020,RBICS_IG,5
+Landscaping Services,101020101025,RBICS_IG,6
+Lasers and Optical Instrument Manufacturing,4010202015,RBICS_IG,5
+Latin America Banks,3010101015,RBICS_IG,5
+Latin America Biomass Wholesale Power,651010402030,RBICS_IG,6
+Latin America CNG and LNG Distributors,251510101020,RBICS_IG,6
+Latin America Crude Oil Liquid Pipeline/Storage,251515201025,RBICS_IG,6
+Latin America Decentralized Wholesale Power,651010402035,RBICS_IG,6
+Latin America Electric Power Utilities,651010101025,RBICS_IG,6
+Latin America Fossil Fuel Exploration/Production,251015101025,RBICS_IG,6
+Latin America Fossil Fuel Wholesale Power,651010402020,RBICS_IG,6
+Latin America Geothermal Wholesale Power,651010402040,RBICS_IG,6
+Latin America Gold Ore Mining,451525201015,RBICS_IG,6
+Latin America Hydroelectric Wholesale Power,651010402045,RBICS_IG,6
+Latin America Mixed Alternative Wholesale Power,651010402010,RBICS_IG,6
+Latin America Mixed Wholesale Power,651010402015,RBICS_IG,6
+Latin America Natural Gas Pipeline and Storage,251515101030,RBICS_IG,6
+Latin America Petroleum Storage and Transport,251510102520,RBICS_IG,6
+Latin America Propane and LPG Marketing and Dist.,251510103020,RBICS_IG,6
+Latin America Solar Wholesale Power,651010402050,RBICS_IG,6
+Latin America Wholesale Power,6510104020,RBICS_IG,5
+Latin America Wind Wholesale Power,651010402055,RBICS_IG,6
+Lawn and Garden Care Tool Manufacturing,4010203515,RBICS_IG,5
+Lead Ore Mining,451525101020,RBICS_IG,6
+Leasing Services,3030101015,RBICS_IG,5
+"Leather, Handbags and Luggage Goods",2010101015,RBICS_IG,5
+"Leather, Handbags and Luggage Goods Production",201010101510,RBICS_IG,6
+Legal Services,502510151515,RBICS_IG,6
+"Legal, Tax and Accounting Industry Software",101015201015,RBICS_IG,6
+Leisure Goods Products,201015,RBICS_IG,3
+Life Insurance,301510151025,RBICS_IG,6
+Life and Health Insurance,30151015,RBICS_IG,4
+Life and Health Reinsurance,3015102510,RBICS_IG,5
+Light Emitting Diode Discrete Semiconductors,551020151010,RBICS_IG,6
+Lighting Equipment and Component Manufacturing,4010151515,RBICS_IG,5
+Lighting Equipment and Components Manufacturing,401015151515,RBICS_IG,6
+Lighting Fixtures and Light Bulbs Manufacturing,401015151520,RBICS_IG,6
+Lime and Gypsum Products Manufacturing,451535201515,RBICS_IG,6
+Limestone and Granite Mining,4515301520,RBICS_IG,5
+Limited-Service and Fast Food Restaurants,1510102515,RBICS_IG,5
+Linen and Uniform Supply Services,101020101510,RBICS_IG,6
+Liquid Petroleum and Other Liquids Transportation,251020101015,RBICS_IG,6
+Liquid and Water Purification/Filtration Products,401020101025,RBICS_IG,6
+Lithium Compounds Manufacturing,451020303015,RBICS_IG,6
+Lithium Ore Mining,451525101040,RBICS_IG,6
+Litigation/Corporate Finance Consulting Services,101015152020,RBICS_IG,6
+Liver Disorders Biopharmaceuticals,3510202020,RBICS_IG,5
+Loan Servicing,303010101020,RBICS_IG,6
+Local Area Networking Equipment,55151520,RBICS_IG,4
+Locks and Deadbolts Manufacturing,451535101040,RBICS_IG,6
+Logging and Timber Property Management,4520101515,RBICS_IG,5
+Logistics and Supply Chain Service Providers,40151520,RBICS_IG,4
+Long-Term Care Facilities,35151520,RBICS_IG,4
+Lottery and Pari-Mutuel Systems,151010151535,RBICS_IG,6
+Lower Respiratory Biopharmaceuticals,3510206010,RBICS_IG,5
+Lubricants Manufacturing,4510203025,RBICS_IG,5
+Luggage and Leather Goods Stores,2025101020,RBICS_IG,5
+Lumber Processing and Sawmill Products,4520101015,RBICS_IG,5
+Luxury Hotels and Resorts,151010102520,RBICS_IG,6
+MENA Fossil Fuel Exploration/Production,2510152020,RBICS_IG,5
+Machine Shops,4515101035,RBICS_IG,5
+Machine Tools Manufacturing,401020152010,RBICS_IG,6
+Machine Vision and Quality Control Manufacturing,4010202020,RBICS_IG,5
+Machinery Manufacturing,401020,RBICS_IG,3
+"Machinery, Equipment and Supplies Distributors",401520101535,RBICS_IG,6
+Magazine Publishing,151510202020,RBICS_IG,6
+Magnetic Passive Electronic Components,5510102515,RBICS_IG,5
+Maintenance/Repair/Overhaul Supplies Distributors,401520101540,RBICS_IG,6
+Major Appliances Manufacturing,2010201015,RBICS_IG,5
+Managed Hosting Services,5520102015,RBICS_IG,5
+Manufactured Building Makers,20152020,RBICS_IG,4
+Manufactured Products,4520,RBICS_IG,2
+Manufacturing Additives Manufacturing,4510201015,RBICS_IG,5
+Manufacturing Equipment and Services,551015,RBICS_IG,3
+Manufacturing Industry Software,4010203020,RBICS_IG,5
+Manufacturing and Scientific/Technical Services,101015152025,RBICS_IG,6
+Mapping/Geographic Information Systems Software,552015102510,RBICS_IG,6
+Marine Containers and Intermodal Leasing Services,303010101520,RBICS_IG,6
+Market Makers and Specialists,302010251020,RBICS_IG,6
+Market Research Services,1010151515,RBICS_IG,5
+Marketing CRM Software,552015152520,RBICS_IG,6
+Marketing Communications and Advertising Services,101010101525,RBICS_IG,6
+Marketing Specialists,1010101010,RBICS_IG,5
+Marketing and Advertising Agencies and Networks,101010101520,RBICS_IG,6
+Marketing and Advertising Services,10101010,RBICS_IG,4
+Marketing and Printing Services,101010,RBICS_IG,3
+Master Limited Partnership,3020102030,RBICS_IG,5
+Master Limited Partnerships,302010203010,RBICS_IG,6
+Material Handling/Conveyor Equipment Manufacturing,401020151015,RBICS_IG,6
+Materials Distributors,40152015,RBICS_IG,4
+Mattress and Related Components Manufacturing,502015201030,RBICS_IG,6
+Meat Alternatives,501515152535,RBICS_IG,6
+Meat Product Rendering and Related Activities,501510251020,RBICS_IG,6
+Meat and Seafood Production,5015151525,RBICS_IG,5
+Mechanical Power Transmission (MPT) Manufacturing,401015101015,RBICS_IG,6
+Media Download and Streaming Digital Content Sites,552010351030,RBICS_IG,6
+Media Industry Electronics Manufacturing,55151025,RBICS_IG,4
+Media Player and Recorder Equipment,5515252510,RBICS_IG,5
+Media Printing Services,101010151515,RBICS_IG,6
+Media Usage and Survey-Based Market Researchers,101015151515,RBICS_IG,6
+Media and Entertainment Industry Software,151510151030,RBICS_IG,6
+Media and Publishing Services,1515,RBICS_IG,2
+Medicaid Managed Care,351510101010,RBICS_IG,6
+Medical Device OEM,3515251015,RBICS_IG,5
+Medical Equipment Distributors,3515102015,RBICS_IG,5
+Medical Supplies,35202010,RBICS_IG,4
+Medical Treatment Supplies,3520201020,RBICS_IG,5
+Medicare Managed Care,351510101015,RBICS_IG,6
+Membership Organizations,Non_RBICS_classification,Non_RBICS_IG,2
+Memory Semiconductors,55102025,RBICS_IG,4
+Men's Wear Apparel Stores,202510201520,RBICS_IG,6
+Metal Cans and Closures Manufacturing,4520151010,RBICS_IG,5
+Metal Chassis/Casings,551015101520,RBICS_IG,6
+Metal Forming Tool Manufacturing,401020152015,RBICS_IG,6
+Metal Ore Mining,451525,RBICS_IG,3
+Metal Packaging Products,45201510,RBICS_IG,4
+Metal Parts and Component Manufacturing,45151010,RBICS_IG,4
+Metal Processing and Metal Service Centers,451510202515,RBICS_IG,6
+Metal Processing and Recycling Services,4515102025,RBICS_IG,5
+Metal Products,451510,RBICS_IG,3
+Metal Recycling Providers,451510202520,RBICS_IG,6
+Metal Treatment Technologies and Services,451510202525,RBICS_IG,6
+Metalwork and Metal Production Machinery Products,4010201520,RBICS_IG,5
+Mexican Restaurants,151010251535,RBICS_IG,6
+Mexico Mixed Telecommunications Services,6010105025,RBICS_IG,5
+Mexico Wireline Services,601015151020,RBICS_IG,6
+Microprocessor (MPU) Semiconductors,551020302510,RBICS_IG,6
+Microprocessor Semiconductors,5510203025,RBICS_IG,5
+Mid-Continent Fossil Fuel Exploration/Production,251015102020,RBICS_IG,6
+Middle Atlantic US Savings Institutions,301020151010,RBICS_IG,6
+Middle East Banks,3010102020,RBICS_IG,5
+Middle East and Africa Biomass Wholesale Power,651010501530,RBICS_IG,6
+Middle East and Africa CNG and LNG Distributors,251510101035,RBICS_IG,6
+Middle East and Africa Fossil Fuel Wholesale Power,651010501520,RBICS_IG,6
+Middle East and Africa Geothermal Wholesale Power,651010501540,RBICS_IG,6
+Middle East and Africa Mixed Alt. Wholesale Power,651010501510,RBICS_IG,6
+Middle East and Africa Mixed Telecom Services,60101065,RBICS_IG,4
+Middle East and Africa Mixed Wholesale Power,651010501515,RBICS_IG,6
+Middle East and Africa Petroleum Refineries,2515101525,RBICS_IG,5
+Middle East and Africa Solar Wholesale Power,651010501550,RBICS_IG,6
+Middle East and Africa Supermarkets,501010202020,RBICS_IG,6
+Middle East and Africa Wholesale Power,6510105015,RBICS_IG,5
+Middle East and Africa Wind Wholesale Power,651010501555,RBICS_IG,6
+Middle East and Africa Wireless Services,601015102015,RBICS_IG,6
+Middle East and Africa Wireline Services,601015152015,RBICS_IG,6
+Middle East/Africa Decentralized Wholesale Power,651010501535,RBICS_IG,6
+Middle East/Africa Hydroelectric Wholesale Power,651010501545,RBICS_IG,6
+Middle East/Africa Nat. Gas Pipeline and Storage,251515101025,RBICS_IG,6
+Middle East/Africa Petroleum Storage and Transport,251510102535,RBICS_IG,6
+Middle East/Africa Propane and LPG Mktg. and Dist.,251510103035,RBICS_IG,6
+Midstream Energy,251515,RBICS_IG,3
+Military Batteries Manufacturing,401015101540,RBICS_IG,6
+Minerals,451515,RBICS_IG,3
+Minimills Manufacturing Flats,451510203010,RBICS_IG,6
+Minimills Manufacturing Longs,451510203015,RBICS_IG,6
+Minimills Mixed Product Manufacturing,451510203020,RBICS_IG,6
+Minimills Specialty Steel Manufacturing,451510203025,RBICS_IG,6
+Minimills Steel Mills and Products Manufacturing,4515102030,RBICS_IG,5
+Minimills Tubular Product Makers,451510203030,RBICS_IG,6
+Mining and Excavation Equipment Manufacturing,4010202520,RBICS_IG,5
+Mining and Mineral Products,4515,RBICS_IG,2
+Miscellaneous Automotive Services,201510102015,RBICS_IG,6
+Miscellaneous Healthcare,351520,RBICS_IG,3
+Miscellaneous Management Consulting Services,101015152030,RBICS_IG,6
+Miscellaneous Marketing and Advertising Services,101010101530,RBICS_IG,6
+Miscellaneous Mortgage Banking Services,301015101520,RBICS_IG,6
+Miscellaneous Retail,2015,RBICS_IG,2
+"Mixed Accounting, Tax and Bookkeeping Services",101015201020,RBICS_IG,6
+Mixed Apparel and Accessories Retail,20251015,RBICS_IG,4
+Mixed Apparel and Footwear Production,2010101510,RBICS_IG,5
+Mixed Architecture/Infrastructure Component Makers,4515351020,RBICS_IG,5
+"Mixed Books, Movies and Music Stores",202515151020,RBICS_IG,6
+Mixed Building/Physical Security Equipment Makers,551510151025,RBICS_IG,6
+Mixed Chemicals,451015,RBICS_IG,3
+Mixed Cruise and Land-Based Accommodations,151010103010,RBICS_IG,6
+Mixed Dairy and Dairy Alternative Products Makers,501515151515,RBICS_IG,6
+Mixed Delivery Radio and Television Broadcasting,151510101010,RBICS_IG,6
+Mixed Electronic Systems Manufacturing Services,5510151510,RBICS_IG,5
+Mixed Electronic Transaction Processing,303010153020,RBICS_IG,6
+Mixed Electronics and Entertainment Retail,20251520,RBICS_IG,4
+"Mixed Fruit, Nut and Vegetable Farming",501510152015,RBICS_IG,6
+Mixed Heavy Building Materials/Aggregates Makers,451535201510,RBICS_IG,6
+Mixed Heavy-Duty and High-End Batteries Makers,401015101520,RBICS_IG,6
+Mixed Home Improvement and Furnishings Stores,20252020,RBICS_IG,4
+Mixed Industrial Machinery Parts/Equipment Makers,4010202010,RBICS_IG,5
+Mixed International Telecommunications Services,60101010,RBICS_IG,4
+Mixed Metal and Mineral Products,451520,RBICS_IG,3
+Mixed Non-Ferrous and Ferrous Metals Ore Mining,451525101515,RBICS_IG,6
+Mixed Office/Institutional Furniture Manufacturing,502015201510,RBICS_IG,6
+Mixed Print Media,151510202025,RBICS_IG,6
+Mixed Renewable Energy Generation Manufacturing,401015201515,RBICS_IG,6
+Mixed Specialty and Commodity Chemical Makers,45101510,RBICS_IG,4
+Mixed Type Agrochemicals Manufacturing,451020201515,RBICS_IG,6
+Mixed Usage Travel Arrangement and Reservation,1510103010,RBICS_IG,5
+Mixed and Other Fertilizers Makers,451020201010,RBICS_IG,6
+Mixed-Type Business Process Outsourcing Services,101015151020,RBICS_IG,6
+"Mixed-Type Hotels, Motels and Resorts",151010102525,RBICS_IG,6
+Mobile Platform Applications Software,552015251510,RBICS_IG,6
+Module and Subassembly Components,55101015,RBICS_IG,4
+Molybdenum Ore Mining,451525102010,RBICS_IG,6
+Money Transfer Services,303010153025,RBICS_IG,6
+Monitoring and Control Sensor/Instrument Products,4010202025,RBICS_IG,5
+Mortgage Banking,301015,RBICS_IG,3
+Mortgage Guaranty Insurance,301510201520,RBICS_IG,6
+Mortgage Loan Servicing,301015101515,RBICS_IG,6
+Mortgage Origination Services,301015102015,RBICS_IG,6
+Mortgage REITs,30252020,RBICS_IG,4
+Motion Control and Precision Motors Manufacturing,401015101020,RBICS_IG,6
+Motion Picture Production,151510152020,RBICS_IG,6
+Motion Picture and Television Distribution,151510152010,RBICS_IG,6
+Motion Picture and Television Production,151510152015,RBICS_IG,6
+Motor Homes and Campers (RVs) Manufacturing,202010152510,RBICS_IG,6
+Motor Vehicle Sales,20151015,RBICS_IG,4
+Motor Vehicle Supplies and Parts Distributors,201510201520,RBICS_IG,6
+Motor Vehicles and Parts Retail,201510202010,RBICS_IG,6
+Motor Vehicles and Parts Sales and Rental,20151020,RBICS_IG,4
+Motorcycle Manufacturing,2020101520,RBICS_IG,5
+Motors and Motion Control Product Manufacturing,4010151010,RBICS_IG,5
+Motorsports,151010153015,RBICS_IG,6
+Movie Theaters,151010151030,RBICS_IG,6
+Multi-Age Educational Services,502510101015,RBICS_IG,6
+Multi-Delivery-Type Patient Care,35151525,RBICS_IG,4
+Multi-Industry-Specific Factory Machinery Makers,401020151525,RBICS_IG,6
+Multi-Industry-Specific IT Services,5520201510,RBICS_IG,5
+Multi-National Water Utilities,65101520,RBICS_IG,4
+Multi-Process Assembly Services,5510151015,RBICS_IG,5
+"Multi-Product Adhesive, Sealant and Paint Makers",4510201525,RBICS_IG,5
+Multi-Product Mining,45153010,RBICS_IG,4
+Multi-Region Air Passenger Transportation,4015301025,RBICS_IG,5
+Multi-Size Trucking Road Transportation,401510201520,RBICS_IG,6
+Multi-Tactic Enterprise Solutions Consulting,552020201030,RBICS_IG,6
+Multi-Type Accommodation Providers,1510101030,RBICS_IG,5
+Multi-Type Alcoholic Beverages Manufacturing,501515101020,RBICS_IG,6
+Multi-Type Alumina and Aluminum Product Makers,451510201025,RBICS_IG,6
+Multi-Type Apparel Production,201010151540,RBICS_IG,6
+Multi-Type Apparel and Accessories Production,20101020,RBICS_IG,4
+Multi-Type Business and Personal Systems,5515201515,RBICS_IG,5
+Multi-Type Car Manufacturers,202010151010,RBICS_IG,6
+Multi-Type Commercial Insurance,301510201045,RBICS_IG,6
+Multi-Type Containers and Packaging Makers,4520151515,RBICS_IG,5
+Multi-Type Data Storage Hardware Makers,5515202025,RBICS_IG,5
+Multi-Type Deep Sea and Offshore Shipping,401510101525,RBICS_IG,6
+Multi-Type Diagnostic Patient Care,351515151515,RBICS_IG,6
+Multi-Type Drug Discovery Services,351520201520,RBICS_IG,6
+Multi-Type Electronic Manufacturing Services,5510151020,RBICS_IG,5
+Multi-Type Equity REITs,302520151040,RBICS_IG,6
+Multi-Type Fertilizers Manufacturing,451020201015,RBICS_IG,6
+Multi-Type Fibers and Polymers Manufacturing,451020351010,RBICS_IG,6
+Multi-Type Financial Data Content Providers/Sites,552010301030,RBICS_IG,6
+Multi-Type Home Furnishings Makers,201020101025,RBICS_IG,6
+Multi-Type Home and Office Software,5520152525,RBICS_IG,5
+Multi-Type Investment Holding Companies,3020102020,RBICS_IG,5
+Multi-Type Mortgage REITs,302520201015,RBICS_IG,6
+Multi-Type Motor Vehicle Parts Manufacturers,202010102510,RBICS_IG,6
+Multi-Type Non-Alcoholic Beverages Makers,501515102035,RBICS_IG,6
+Multi-Type Non-Ferrous Metal Products Makers,451510203515,RBICS_IG,6
+Multi-Type Organic and Petrochemicals Makers,451010101525,RBICS_IG,6
+Multi-Type Passenger Transportation,4015301515,RBICS_IG,5
+Multi-Type Petroleum Transportation,251020101025,RBICS_IG,6
+Multi-Type Plastic Packaging Products Makers,4520152510,RBICS_IG,5
+Multi-Type Plastic Products Manufacturing,4510251515,RBICS_IG,5
+Multi-Type Reinsurance,301510251510,RBICS_IG,6
+Multi-Type Resource/Construction Machinery Makers,4010202515,RBICS_IG,5
+Multi-Type Small Appliances and Accessories Makers,5020101520,RBICS_IG,5
+Multi-Type Support for Oil and Gas Operations,2510202015,RBICS_IG,5
+Multi-Type United States Wireless Services,601015103010,RBICS_IG,6
+Multi-Type United States Wireline Services,601015153010,RBICS_IG,6
+Multimedia Design and Engineering Software,552015102515,RBICS_IG,6
+Multimedia Semiconductors,5510204015,RBICS_IG,5
+Multinational Banks,30101025,RBICS_IG,4
+Multinational Coal Mining,251010201020,RBICS_IG,6
+Multinational Electric Power Utilities,651010101030,RBICS_IG,6
+Multinational Fossil Fuel Exploration/Production,2510152025,RBICS_IG,5
+Multinational Full-Service Restaurants and Bars,151010251020,RBICS_IG,6
+Multinational Gold Ore Mining,451525202015,RBICS_IG,6
+Multinational Internet Banks,3010102515,RBICS_IG,5
+Multinational Investment Banking Companies,302010151525,RBICS_IG,6
+Multinational Petroleum Refineries,2515101530,RBICS_IG,5
+"Multinational Transmission, Dist., and Storage",65101060,RBICS_IG,4
+Multinational Wholesale Power,65101030,RBICS_IG,4
+Multiple Industry-Specific Software,552015301010,RBICS_IG,6
+Multiple Metalwork/Metal Product Machinery Makers,401020152020,RBICS_IG,6
+Multiple Precious Metals Ore Mining,451525202510,RBICS_IG,6
+Multiple Services to Buildings and Dwellings,101020101030,RBICS_IG,6
+Musculoskeletal System Biopharmaceuticals,35102040,RBICS_IG,4
+Music,151510151035,RBICS_IG,6
+Nanotechnology Materials Manufacturing,4510203035,RBICS_IG,5
+Narcotics Pain Management Biopharmaceuticals,3510151515,RBICS_IG,5
+National Electric Utilities,651010101510,RBICS_IG,6
+Natural Gas Compression Equipment,251020151025,RBICS_IG,6
+Natural Gas Pipeline and Storage Services,25151510,RBICS_IG,4
+Natural Gas Utilities,65101015,RBICS_IG,4
+Natural Resource and Construction Machinery Makers,40102025,RBICS_IG,4
+Natural Resource/Construction Component Products,4010202525,RBICS_IG,5
+Natural Resource/Construction Machinery Products,4010202530,RBICS_IG,5
+Neonatology Devices,352020151515,RBICS_IG,6
+Network Administration Software,552015353010,RBICS_IG,6
+Network Design and Implementation Consulting,5520202520,RBICS_IG,5
+Network Infrastructure Software,5520153530,RBICS_IG,5
+Network Security Access Policy Software,552015353015,RBICS_IG,6
+Network Security Software,552015353020,RBICS_IG,6
+Networking Semiconductors,551020401010,RBICS_IG,6
+Neurology Biopharmaceuticals,35102045,RBICS_IG,4
+Neurology Devices,352020151520,RBICS_IG,6
+New Car Dealers,201510151015,RBICS_IG,6
+New England United States Savings Institutions,301020151015,RBICS_IG,6
+New Tire Manufacturing,202010102010,RBICS_IG,6
+Newspapers,151510202030,RBICS_IG,6
+Nickel Ore Mining,451525101025,RBICS_IG,6
+Nitrogenous Fertilizer Manufacturing,451020201020,RBICS_IG,6
+Non-Alcoholic Beverage Bottling and Distribution,501515102015,RBICS_IG,6
+Non-Alcoholic Beverage Production,5015151020,RBICS_IG,5
+Non-Alcoholic Beverages and Specialty Stores,501010101020,RBICS_IG,6
+Non-Citrus Fruit Farming,501510152020,RBICS_IG,6
+Non-Corporate,Non_RBICS_classification,Non_RBICS_IG,1
+Non-Energy Materials,45,RBICS_IG,1
+Non-Ferrous Metal Ore Mining,4515251010,RBICS_IG,5
+Non-Ferrous Metal Products Manufacturing,4515102035,RBICS_IG,5
+Non-Narcotics Pain Management Biopharmaceuticals,3510151520,RBICS_IG,5
+Non-System-Specific Biopharmaceuticals,351010,RBICS_IG,3
+Nonmetallic Mineral Mining,45153015,RBICS_IG,4
+Nonmetallic Minerals Products,45151510,RBICS_IG,4
+Nonvolatile Memory Semiconductors,5510202510,RBICS_IG,5
+North East United States Savings Institutions,301020151020,RBICS_IG,6
+North Sea Fossil Fuel Exploration/Production,251015201510,RBICS_IG,6
+Northwest United States Savings Institutions,301020151510,RBICS_IG,6
+Not-For-Profit Industry Software,101015102015,RBICS_IG,6
+Nursery and Tree Production,501510153010,RBICS_IG,6
+Nut Farming,501510152025,RBICS_IG,6
+Nutraceuticals,3515201015,RBICS_IG,5
+Nutritional Health Pharmaceuticals,35152010,RBICS_IG,4
+Nutritional Supplement OEMs,351525102015,RBICS_IG,6
+Obstetrics Biopharmaceuticals,3510205015,RBICS_IG,5
+Obstetrics and Gynecology Biopharmaceuticals,35102050,RBICS_IG,4
+Obstetrics and Gynecology Devices,352020151525,RBICS_IG,6
+Ocean Fishing,501510101520,RBICS_IG,6
+Ocean-Going Cruise Lines,151010101010,RBICS_IG,6
+Off-Price Retail Stores,5010152510,RBICS_IG,5
+Off-Price Retailers,50101525,RBICS_IG,4
+Office Equipment Products,55151030,RBICS_IG,4
+Office Supplies and Stationery Retail,20151520,RBICS_IG,4
+Office Supplies and Stationery Stores,201515201010,RBICS_IG,6
+Office and Institutional Furniture Manufacturing,502015201515,RBICS_IG,6
+Office/Institution Furniture and Accessory Makers,5020152015,RBICS_IG,5
+Offshore Oil and Gas Well Drilling,251020151510,RBICS_IG,6
+Oil Country Tubular Goods (OCTG),251020151030,RBICS_IG,6
+Oil and Gas Drilling Equipment,251020151015,RBICS_IG,6
+Oil and Gas Engineering and Construction,2510202020,RBICS_IG,5
+Oil and Gas Field Equipment Manufacturing,2510201510,RBICS_IG,5
+Oil and Gas Field Support Activities,25102015,RBICS_IG,4
+Oil and Gas Geophysical Equipment,251020151020,RBICS_IG,6
+Oil and Gas Geophysical Services,2510202025,RBICS_IG,5
+Oil and Gas Hydraulic Fracturing Services,2510202030,RBICS_IG,5
+Oil and Gas Operations Support Activities,25102020,RBICS_IG,4
+Oil and Gas Pumping Equipment,251020151035,RBICS_IG,6
+Oil and Gas Royalty Trusts,302010101025,RBICS_IG,6
+Oil and Gas Transportation,2510202035,RBICS_IG,5
+Oil and Gas Transportation and Infrastructure,25102010,RBICS_IG,4
+Oil and Gas Well Drilling,2510201515,RBICS_IG,5
+Oil and Gas Well Servicing,2510202040,RBICS_IG,5
+Oil and Gas Wellhead and Pressure Control Products,251020151040,RBICS_IG,6
+Oil and Gas and Mining Additive Manufacturing,451020101520,RBICS_IG,6
+Oilseed and Grain Farming,5015101535,RBICS_IG,5
+Oncology Biopharmaceuticals,35101015,RBICS_IG,4
+Oncology Devices,352020151530,RBICS_IG,6
+Online Casinos,151010152515,RBICS_IG,6
+Online Game Websites and Software,5520152020,RBICS_IG,5
+Online Gaming Systems,151010151540,RBICS_IG,6
+Online Marketing and Advertising Support Services,101010101535,RBICS_IG,6
+Onshore Oil and Gas Well Drilling,251020151520,RBICS_IG,6
+Onshore and Offshore Oil and Gas Well Drilling,251020151515,RBICS_IG,6
+Operating Systems Software,5520153535,RBICS_IG,5
+Ophthalmology Biopharmaceuticals,35102055,RBICS_IG,4
+Ophthalmology Devices,352020151535,RBICS_IG,6
+Optoelectronics Discrete Semiconductors,5510201510,RBICS_IG,5
+Optoelectronics Electronic Components,55101020,RBICS_IG,4
+Organic and Petrochemical Products,45101010,RBICS_IG,4
+Oriented Strand Board (OSB) Manufacturing,4520101020,RBICS_IG,5
+Orthopedics Medical Devices,3520151015,RBICS_IG,5
+Oscillator and Piezoelectric Passive Components,5510102520,RBICS_IG,5
+Other,90,RBICS_IG,1
+Other Additive Manufacturing,451020102015,RBICS_IG,6
+Other Aerospace Equipment Manufacturing,4010101015,RBICS_IG,5
+Other Africa Gold Ore Mining,451525202020,RBICS_IG,6
+Other Agricultural Support Activity Providers,5015102510,RBICS_IG,5
+Other Agrochemicals Manufacturing,4510202015,RBICS_IG,5
+"Other Air, Liquid and Gas Control Equipment Makers",4010201015,RBICS_IG,5
+"Other Aircraft Parts, Equipment and Services",401010101035,RBICS_IG,6
+Other Alcoholic Beverage Production,501515101025,RBICS_IG,6
+Other Alternative Fuel Manufacturers,451010101530,RBICS_IG,6
+Other Ambulatory and Outpatient Diagnostic Care,3515151515,RBICS_IG,5
+Other Ambulatory and Outpatient Patient Care,35151530,RBICS_IG,4
+Other Americas (excluding US) Coal Mining,251010101010,RBICS_IG,6
+Other Americas Electric Power Utilities,651010101035,RBICS_IG,6
+Other Americas Fossil Fuel Exploration/Production,2510151010,RBICS_IG,5
+Other Americas Gold Ore Mining,451525201020,RBICS_IG,6
+Other Americas Railroad Transportation,401510201020,RBICS_IG,6
+Other Apparel Retail,2025102015,RBICS_IG,5
+Other Architecture/Infrastructure Component Makers,4515351015,RBICS_IG,5
+"Other Arts, Entertainment and Recreation Providers",1510101520,RBICS_IG,5
+Other Asia Fossil Fuel Exploration/Production,251015201020,RBICS_IG,6
+Other Asia/Pacific Banks,3010101515,RBICS_IG,5
+Other Asia/Pacific Biomass Wholesale Power,651010452030,RBICS_IG,6
+Other Asia/Pacific Decentralized Wholesale Power,651010452035,RBICS_IG,6
+Other Asia/Pacific Fossil Fuel Wholesale Power,651010452020,RBICS_IG,6
+Other Asia/Pacific Geothermal Wholesale Power,651010452040,RBICS_IG,6
+Other Asia/Pacific Hydroelectric Wholesale Power,651010452045,RBICS_IG,6
+Other Asia/Pacific Mixed Alt. Wholesale Power,651010452010,RBICS_IG,6
+Other Asia/Pacific Mixed Trad. Wholesale Power,651010452025,RBICS_IG,6
+Other Asia/Pacific Mixed Wholesale Power,651010452015,RBICS_IG,6
+Other Asia/Pacific Nuclear Wholesale Power,651010452060,RBICS_IG,6
+Other Asia/Pacific Solar Wholesale Power,651010452050,RBICS_IG,6
+Other Asia/Pacific Wholesale Power,6510104520,RBICS_IG,5
+Other Asia/Pacific Wind Wholesale Power,651010452055,RBICS_IG,6
+"Other Auto Comfort, Safety and Electronic Products",202010101020,RBICS_IG,6
+Other Automation Support Product Manufacturing,401020152515,RBICS_IG,6
+Other Automotive Equipment Rental,201510201010,RBICS_IG,6
+Other Automotive Services,2015101020,RBICS_IG,5
+Other Bacterial Infections Biopharmaceuticals,351010101025,RBICS_IG,6
+Other Base Metal Ore Mining,4515251015,RBICS_IG,5
+Other Biopharmaceutical OEMs,351525101025,RBICS_IG,6
+Other Biopharmaceuticals,351015,RBICS_IG,3
+Other Building Materials Distribution,4015202515,RBICS_IG,5
+Other Building Materials and Garden Supply Stores,2025201015,RBICS_IG,5
+Other Business Administrative Services,1010151030,RBICS_IG,5
+Other Business Communications Equipment,5515151020,RBICS_IG,5
+Other Business Support Services,101015103015,RBICS_IG,6
+Other Carrier Services,601010301020,RBICS_IG,6
+Other Cellular Phones Manufacturing,5515154515,RBICS_IG,5
+Other Chemical Additives Manufacturing,4510201020,RBICS_IG,5
+Other Chemical Products Distributors,401520151015,RBICS_IG,6
+Other Chemical and Allied Product Distributors,401520151010,RBICS_IG,6
+Other Chemistry Clinical Diagnostics Devices,352010101020,RBICS_IG,6
+Other Classifieds and Directories Media and Sites,552010101035,RBICS_IG,6
+Other Clearing and Settlement Services,302010251510,RBICS_IG,6
+Other Clinical Diagnostic Devices,3520101015,RBICS_IG,5
+Other Commercial Electronics Manufacturing,55151035,RBICS_IG,4
+Other Commercial Finance,3030101020,RBICS_IG,5
+Other Commercial Printing Services,101010151030,RBICS_IG,6
+Other Commercial Transportation Equipment Makers,4010251025,RBICS_IG,5
+Other Commodity Chemical Manufacturing,45101015,RBICS_IG,4
+Other Communications Equipment,55151525,RBICS_IG,4
+Other Communications Semiconductors,551020401015,RBICS_IG,6
+Other Computer Display Equipment,5515203015,RBICS_IG,5
+Other Computer Systems,5515201520,RBICS_IG,5
+Other Construction Wood Products Makers,4520101025,RBICS_IG,5
+Other Consulting and Business Process Outsourcing,1010151520,RBICS_IG,5
+Other Containers and Packaging Products,45201515,RBICS_IG,4
+Other Contract Manufacturing Organizations,3515251020,RBICS_IG,5
+Other Core Infrastructure Equipment,5515154020,RBICS_IG,5
+Other Crop Farming,501510153020,RBICS_IG,6
+Other Defense Manufacturing,4010101510,RBICS_IG,5
+Other Design and Engineering Software,5520151020,RBICS_IG,5
+Other Discrete Semiconductors,5510201515,RBICS_IG,5
+Other Drug Delivery Devices,3520101515,RBICS_IG,5
+Other Educational Services,5025101010,RBICS_IG,5
+Other Electric Motors and Motion Control Products,401015101025,RBICS_IG,6
+Other Electric and Natural Gas Utilities,65101020,RBICS_IG,4
+Other Electrical Equipment/Power Systems Makers,40101515,RBICS_IG,4
+Other Employment Services,101015101025,RBICS_IG,6
+Other Endocrinology/Metabolism Biopharmaceuticals,3510202520,RBICS_IG,5
+Other Enterprise Management Software,5520151540,RBICS_IG,5
+Other Entertainment Retail,2025151515,RBICS_IG,5
+Other Entertainment and Programming Providers,1515101510,RBICS_IG,5
+Other Environmental Control Machine Manufacturing,401020101030,RBICS_IG,6
+Other Factory Automation Product Manufacturing,4010201525,RBICS_IG,5
+Other Farming,5015101530,RBICS_IG,5
+Other Fibers and Polymers Manufacturing,451020351015,RBICS_IG,6
+Other Finance Industry Software,303015101025,RBICS_IG,6
+Other Fluid Power and Control Equipment Products,401020101520,RBICS_IG,6
+Other Food Production,5015151530,RBICS_IG,5
+Other Food and Beverage Services,15101020,RBICS_IG,4
+Other Forestry and Paper Products Manufacturing,45201015,RBICS_IG,4
+Other Fossil Fuel Exploration and Production,25101520,RBICS_IG,4
+Other Front End Processing Equipment Makers,551030101515,RBICS_IG,6
+Other Funds of Funds Managers,302010101020,RBICS_IG,6
+Other Games Software,5520152025,RBICS_IG,5
+Other Gold Mining,4515252020,RBICS_IG,5
+Other Gynecology Biopharmaceuticals,351020501010,RBICS_IG,6
+Other Handheld and Smart Phone Software,552015251515,RBICS_IG,6
+Other Hardware Distributors,5515301025,RBICS_IG,5
+Other Health Plans,3515101015,RBICS_IG,5
+Other Health and Personal Care Retail,50102010,RBICS_IG,4
+Other Health and Personal Care Stores,5010201010,RBICS_IG,5
+Other Healthcare Administrative Services,3515101520,RBICS_IG,5
+Other Healthcare Support Services,35151025,RBICS_IG,4
+Other Healthcare and Pharma Industry Software,351510151525,RBICS_IG,6
+Other Heating and Cooling Equipment Manufacturing,401020101035,RBICS_IG,6
+Other Heavy Building Material/Aggregate Products,4515352015,RBICS_IG,5
+"Other Hobby, Toy and Game Stores",202515151515,RBICS_IG,6
+Other Hospitals,3515151015,RBICS_IG,5
+Other Hosting Services,5520102020,RBICS_IG,5
+Other Household Furniture/Accessory Manufacturing,502015201040,RBICS_IG,6
+Other Household Products Manufacturing,5020101525,RBICS_IG,5
+Other Human Resources Consulting and PEO Services,101015101030,RBICS_IG,6
+Other IT Distributors,55153015,RBICS_IG,4
+Other Immunology Biopharmaceuticals,3510203520,RBICS_IG,5
+Other Industrial Electrical Product Manufacturing,401015101525,RBICS_IG,6
+Other Industrial Electrical Products,4010151015,RBICS_IG,5
+Other Industrial Gas Manufacturing,451010151545,RBICS_IG,6
+Other Industrial Plastic Products Makers,4510251520,RBICS_IG,5
+Other Infectious Disease Biopharmaceuticals,3510101015,RBICS_IG,5
+Other Infrastructure Construction,401525101020,RBICS_IG,6
+Other Inorganic Chemical Makers,451010152020,RBICS_IG,6
+Other Interconnect Components,5510101020,RBICS_IG,5
+Other Interconnect Fabrication Services,5510152015,RBICS_IG,5
+Other International Coal Mining,25101020,RBICS_IG,4
+Other International Energy Utilities,6510102015,RBICS_IG,5
+Other International Wholesale Power,65101050,RBICS_IG,4
+Other Internet Health and Personal Care Retail,5010201015,RBICS_IG,5
+Other Investment Banking and Corporate Finance,3020101515,RBICS_IG,5
+Other Leasing Services,303010101525,RBICS_IG,6
+Other Leisure Goods,20101510,RBICS_IG,4
+Other Local Area Networking Equipment,5515152010,RBICS_IG,5
+Other Long-Term Care Facilities,3515152020,RBICS_IG,5
+Other Machinery Manufacturing,40102030,RBICS_IG,4
+Other Managed Care,3515101020,RBICS_IG,5
+Other Marketing Specialists,101010101015,RBICS_IG,6
+Other Marketing and Advertising Services,1010101015,RBICS_IG,5
+Other Materials,452020,RBICS_IG,3
+Other Materials Distributors,4015201515,RBICS_IG,5
+Other Media Equipment Manufacturing,551510251020,RBICS_IG,6
+Other Medical Devices,352020,RBICS_IG,3
+Other Medical Supplies,3520201010,RBICS_IG,5
+Other Memory Semiconductors,5510202515,RBICS_IG,5
+Other Metal Ore Mining,45152515,RBICS_IG,4
+Other Metal Packaging Products Makers,4520151015,RBICS_IG,5
+Other Metal Processing and Recycling Providers,451510202530,RBICS_IG,6
+Other Metal Product Manufacturing,45151015,RBICS_IG,4
+Other Metal Products Makers,4515101510,RBICS_IG,5
+Other Mining,451530,RBICS_IG,3
+Other Mobile Equipment,5515154520,RBICS_IG,5
+Other Module and Subassembly Components,5510101510,RBICS_IG,5
+Other Module and Subassembly Electronic Components,551010151010,RBICS_IG,6
+Other Mortgage Banking Services,3010151015,RBICS_IG,5
+Other Motor Vehicle Sales,2015101515,RBICS_IG,5
+Other Network Software,552015353025,RBICS_IG,6
+Other Non-Ferrous Metal Products Manufacturing,451510203520,RBICS_IG,6
+Other Non-Ferrous Metals Ore Mining,451525101030,RBICS_IG,6
+Other Nonmetallic Mineral Product Makers,4515151025,RBICS_IG,5
+Other Nonmetallic Minerals Mining,4515301525,RBICS_IG,5
+Other Nonvolatile Memory Semiconductors,551020251015,RBICS_IG,6
+Other North America Gold Ore Mining,451525201025,RBICS_IG,6
+Other Office Equipment Manufacturing,5515103015,RBICS_IG,5
+Other Oil and Gas Software and Services,2510202045,RBICS_IG,5
+Other Oil and Gas Support Activities,2510202050,RBICS_IG,5
+Other Oilseed and Grain Farming,501510153520,RBICS_IG,6
+Other Oncology Biopharmaceuticals,3510101520,RBICS_IG,5
+Other Optoelectronics Discrete Semiconductors,551020151015,RBICS_IG,6
+Other Organic Chemical Manufacturers,4510101010,RBICS_IG,5
+Other Orthopedics Devices,352015101515,RBICS_IG,6
+Other Outsourced Biomedical Services,35152015,RBICS_IG,4
+Other Pain Management Biopharmaceuticals,3510151525,RBICS_IG,5
+Other Paper Packaging Products Manufacturing,4520152020,RBICS_IG,5
+Other Passenger Transportation,40153015,RBICS_IG,4
+Other Passive Capacitor Electronic Components,551010253015,RBICS_IG,6
+Other Passive Electronic Components,5510102525,RBICS_IG,5
+Other Performance Additive Manufacturing,451020102020,RBICS_IG,6
+Other Peripherals,5515201030,RBICS_IG,5
+Other Personal Insurance,301510201525,RBICS_IG,6
+Other Personal Services,5025101515,RBICS_IG,5
+Other Petroleum Products,2515101020,RBICS_IG,5
+Other Pharmaceuticals Distributors,3515102020,RBICS_IG,5
+Other Pipeline and Energy Storage Services,25151515,RBICS_IG,4
+Other Plastic Containers/Components Manufacturing,4520152515,RBICS_IG,5
+Other Plastic and Rubber Products Manufacturing,45102510,RBICS_IG,4
+Other Post-Secondary Education,502510101515,RBICS_IG,6
+Other Power Analog and Mixed Signal Semiconductors,5510201015,RBICS_IG,5
+Other Power Generation and Support Products,4010152010,RBICS_IG,5
+Other Precious Metal Ore Mining,4515252025,RBICS_IG,5
+Other Printing Services,1010101515,RBICS_IG,5
+Other Processor Semiconductors,5510203030,RBICS_IG,5
+Other Professional Services,101015,RBICS_IG,3
+Other Programmable Logic and ASIC Semiconductors,5510203510,RBICS_IG,5
+Other Proprietary Trading Services,302010252020,RBICS_IG,6
+Other Real Estate Investment and Services,30251510,RBICS_IG,4
+Other Reinsurance,3015102515,RBICS_IG,5
+Other Respiratory System Biopharmaceuticals,3510206015,RBICS_IG,5
+Other Retail,201515,RBICS_IG,3
+Other Road Transportation,401510201525,RBICS_IG,6
+Other Satellite Equipment,5515153020,RBICS_IG,5
+Other Securities Sales and Trading Services,3020102515,RBICS_IG,5
+Other Small Arms and Security Manufacturing,401010151510,RBICS_IG,6
+Other Small Home Appliances Makers,5020101530,RBICS_IG,5
+"Other Soups, Sauces and Condiments Production",501515153025,RBICS_IG,6
+Other Specialized Medical Devices,3520201510,RBICS_IG,5
+Other Specialized Semiconductors,5510204020,RBICS_IG,5
+Other Specialty and Performance Chemicals Makers,451020303010,RBICS_IG,6
+Other Specialty/Performance Chemical Manufacturing,45102030,RBICS_IG,4
+Other Specialty/Performance Chemicals Products,4510203030,RBICS_IG,5
+Other Sporting and Athletic Goods,2010152025,RBICS_IG,5
+Other Steel Mills and Products Manufacturing,4515101515,RBICS_IG,5
+Other Supplemental Health Insurance,301510151515,RBICS_IG,6
+Other Support Services,1010201015,RBICS_IG,5
+Other Surgical Devices,352015102015,RBICS_IG,6
+Other Telecommunications Industry Software,601010351015,RBICS_IG,6
+Other Telecommunications Services,601010,RBICS_IG,3
+Other Test and Measurement Equipment,5515104515,RBICS_IG,5
+Other Tobacco Product Makers,50152020,RBICS_IG,4
+Other Tobacco Products Makers,5015202010,RBICS_IG,5
+Other Tools and Outdoor Care Tool Manufacturing,4010203520,RBICS_IG,5
+Other Traditional Investment Product Managers,302010103020,RBICS_IG,6
+Other US South Fossil Fuel Exploration/Production,251015102025,RBICS_IG,6
+Other US Western Oil/Gas Exploration/Production,251015101515,RBICS_IG,6
+Other United States Commercial Banks,3010201010,RBICS_IG,5
+Other United States Electric Utilities,6510101015,RBICS_IG,5
+Other United States Energy Utilities,6510102020,RBICS_IG,5
+Other United States Telecommunications Services,60101025,RBICS_IG,4
+Other United States Wireline Voice Services,601015153015,RBICS_IG,6
+Other Video Electronics Equipment,5515252515,RBICS_IG,5
+Other Waste Services,10102520,RBICS_IG,4
+Other Water Transportation,401510101530,RBICS_IG,6
+Other Wide Area Networking (WAN) Equipment,551515353010,RBICS_IG,6
+Other Wide Area Networking Equipment,5515153530,RBICS_IG,5
+Other Wireless Equipment,5515152515,RBICS_IG,5
+Outsourced Development and Manufacturing Services,351525,RBICS_IG,3
+Outsourced Drug Services,35152020,RBICS_IG,4
+Oxygen Gas Manufacturing,451010151515,RBICS_IG,6
+Packaging and Coating Application Machinery Makers,401020152520,RBICS_IG,6
+Pain Management Biopharmaceuticals,35101515,RBICS_IG,4
+Paints Manufacturing,4510201530,RBICS_IG,5
+Palm Farming,501510153530,RBICS_IG,6
+Pan-America Wireless Services,601015101015,RBICS_IG,6
+Pan-Americas Fossil Fuel Exploration/Production,251015101030,RBICS_IG,6
+Pan-Americas Investment Banking/Corporate Finance,302010151015,RBICS_IG,6
+Pan-Americas Mixed Telecommunications Services,60101050,RBICS_IG,4
+Pan-Americas Mixed Wholesale Power,651010401010,RBICS_IG,6
+Pan-Americas Wholesale Power,6510104010,RBICS_IG,5
+Pan-Asia Fossil Fuel Exploration/Production,251015201025,RBICS_IG,6
+Pan-Asia Gold Ore Mining,451525201520,RBICS_IG,6
+Pan-Asia/Pacific Coal Mining,251010151020,RBICS_IG,6
+Pan-Asia/Pacific Mixed Telecommunications Services,60101055,RBICS_IG,4
+Pan-Asia/Pacific Wholesale Power,6510104510,RBICS_IG,5
+Pan-EMEA Banks,3010102025,RBICS_IG,5
+Pan-Europe Fossil Fuel Exploration/Production,251015201520,RBICS_IG,6
+Pan-Europe Mixed Telecommunications Services,60101060,RBICS_IG,4
+Pan-Powertrain and Chassis Manufacturing,202010101515,RBICS_IG,6
+Pan-US Fossil Fuel Exploration/Production,2510151015,RBICS_IG,5
+Paper Mills,452010202015,RBICS_IG,6
+Paper Packaging Products,45201520,RBICS_IG,4
+Paper and Paper Products,45201020,RBICS_IG,4
+Paper and Textile Automation Providers,401020151530,RBICS_IG,6
+Parking Facility Services,101020101035,RBICS_IG,6
+Passenger Car Rental,201510201015,RBICS_IG,6
+Passenger Rail Transportation,4015301520,RBICS_IG,5
+Passenger Transportation,401530,RBICS_IG,3
+Passive Capacitor Electronic Components,5510102530,RBICS_IG,5
+Passive Electronic Components,55101025,RBICS_IG,4
+Patent/Copyright/License Consulting Services,101015152040,RBICS_IG,6
+Patient Care,351515,RBICS_IG,3
+Patient Data Management Software,351510151530,RBICS_IG,6
+Payment Processing Software,303015101030,RBICS_IG,6
+Payroll Services,101015101035,RBICS_IG,6
+Peer-to-Peer Lending,303010153515,RBICS_IG,6
+Pension Fund Managers,302010101045,RBICS_IG,6
+Performing Arts and Exhibitions,151010153020,RBICS_IG,6
+Peripheral Semiconductors,5510204025,RBICS_IG,5
+Peripheral and Other Commerce Equipment Makers,5515101010,RBICS_IG,5
+Permian Basin Fossil Fuel Exploration/Production,251015102030,RBICS_IG,6
+Personal Care Fragrance Products,50202020,RBICS_IG,4
+Personal Care and Cleaning Products,502020,RBICS_IG,3
+Personal Insurance,3015102015,RBICS_IG,5
+Personal Loans,3030101540,RBICS_IG,5
+Personal Professional Services,502510,RBICS_IG,3
+Personal Recreation Vehicle Manufacturing,2010151515,RBICS_IG,5
+Personal Services,50251015,RBICS_IG,4
+Pest Control Services,101020101515,RBICS_IG,6
+Pesticide Manufacturing,451020201525,RBICS_IG,6
+Pet Food Manufacturing,501515152520,RBICS_IG,6
+Pet Supplies Manufacturing,2010151025,RBICS_IG,5
+Pet and Pet Supply Retail,20151525,RBICS_IG,4
+Pet and Pet Supply Stores,201515251010,RBICS_IG,6
+Petrochemical Manufacturing,451010101535,RBICS_IG,6
+Petrochemicals and Alternative Fuels Manufacturing,4510101015,RBICS_IG,5
+Petroleum Liquid Pipeline and Storage,25151520,RBICS_IG,4
+Petroleum Refineries,25151015,RBICS_IG,4
+Petroleum Storage and Transportation,2515101025,RBICS_IG,5
+Petroleum Water Transportation,2510201010,RBICS_IG,5
+Pharmacies and Drug Retailers,50102015,RBICS_IG,4
+Pharmacies and Drug Stores,5010201510,RBICS_IG,5
+Pharmacy Benefit Management (PBM),351510152015,RBICS_IG,6
+Phosphate Fertilizer Manufacturing,451020201025,RBICS_IG,6
+Phosphates Mineral Mining,4515301530,RBICS_IG,5
+Photo Printing Services,502510151525,RBICS_IG,6
+Photography Equipment,55152540,RBICS_IG,4
+Photolithography Equipment Manufacturing,551030101520,RBICS_IG,6
+Photovoltaic and Solar Cells and Systems Providers,401015201520,RBICS_IG,6
+Physical and Online Casinos,1510101525,RBICS_IG,5
+Physician Practice Management (PPM),351510151020,RBICS_IG,6
+Pipes and Pipe Fittings Manufacturing,451535101515,RBICS_IG,6
+Pituitary Gland Disorders Biopharmaceuticals,3510202525,RBICS_IG,5
+Pizza Restaurants,151010251540,RBICS_IG,6
+Plastic Bag Makers,452015252010,RBICS_IG,6
+Plastic Bag Manufacturing,4520152520,RBICS_IG,5
+Plastic Bottle Makers,452015252510,RBICS_IG,6
+Plastic Bottle Manufacturing,4520152525,RBICS_IG,5
+Plastic Chassis/Casings,551015101525,RBICS_IG,6
+Plastic Materials Distributors,401520151020,RBICS_IG,6
+Plastic Packaging Products,45201525,RBICS_IG,4
+Plastic Products Manufacturing,45102515,RBICS_IG,4
+Plastic Resins and Materials Manufacturing,451020351020,RBICS_IG,6
+Plastic and Reconstructive Surgery Devices,352020151025,RBICS_IG,6
+Plastic and Rubber Products,451025,RBICS_IG,3
+Plastics and Rubber Automation Providers,401020151535,RBICS_IG,6
+Platinum and Palladium Metals Ore Mining,451525202515,RBICS_IG,6
+Plumbing Fixtures and Trim Manufacturing,5020101535,RBICS_IG,5
+Plumbing and Heating Supply Distributors,401520101020,RBICS_IG,6
+"Plywood, Hardwood and Softwood Veneer Products",4520101030,RBICS_IG,5
+Point of Care Testing Kits,352010101025,RBICS_IG,6
+Point-of-Sale (POS) Terminal Manufacturing,5515101015,RBICS_IG,5
+Polymer Additives Manufacturing,451020102025,RBICS_IG,6
+Portable Computer Systems,5515201525,RBICS_IG,5
+Post-Secondary Educational Services,5025101015,RBICS_IG,5
+"Potash, Soda and Borates Mineral Mining",4515301535,RBICS_IG,5
+Potassium Fertilizer Manufacturing,451020201030,RBICS_IG,6
+Poultry Products Processors,501515152525,RBICS_IG,6
+Poultry and Egg Production,501510101035,RBICS_IG,6
+Power Generation and Support Products,40101520,RBICS_IG,4
+Power Generation/Support Products Manufacturing,401015201015,RBICS_IG,6
+Power Module and Subassembly Components,5510101515,RBICS_IG,5
+Power Module and Subassembly Electronic Components,551010151510,RBICS_IG,6
+Power Transmission and Distribution Products,401015201020,RBICS_IG,6
+"Power, Control and Mixed Signal Semiconductors",5510201020,RBICS_IG,5
+Powertrain Manufacturing,202010101520,RBICS_IG,6
+Powertrain and Chassis Thermal Management Products,202010101525,RBICS_IG,6
+Precious Metal Mining,45152520,RBICS_IG,4
+Preclinical Limited Service CRO,3515251530,RBICS_IG,5
+Preclinical Limited Service CROs,351525153010,RBICS_IG,6
+Premium Wear Production,201010151545,RBICS_IG,6
+Pressure Vessel/Specialized Storage Tank Products,401020101525,RBICS_IG,6
+Primary Care,3515153020,RBICS_IG,5
+Primary Metals Products,45151020,RBICS_IG,4
+Primary Patient Care,351515302010,RBICS_IG,6
+Primary and Secondary Education,502510101020,RBICS_IG,6
+Print Advertising,1515102015,RBICS_IG,5
+Print Media and Publishing Services,15151020,RBICS_IG,4
+Print and Prepress Industry Software,1515102010,RBICS_IG,5
+Printed Circuit Board/Wiring Board Manufacturing,5510152020,RBICS_IG,5
+Printed Circuit Boards,5515203020,RBICS_IG,5
+Printing Services,10101015,RBICS_IG,4
+Printing and Imaging Peripherals,5515201035,RBICS_IG,5
+Printing and Publishing Equipment Manufacturing,551510401015,RBICS_IG,6
+Printing and Stationary Paper Products,4520102015,RBICS_IG,5
+Printing/Publishing Industry Electronics Makers,55151040,RBICS_IG,4
+Private Equity and Venture Capital Companies,3020102025,RBICS_IG,5
+Private Equity and Venture Capital Fund Managers,302010101030,RBICS_IG,6
+Private Label and Apparel Manufacturing Services,201010151550,RBICS_IG,6
+Private Wealth Managers,302010102520,RBICS_IG,6
+"Process Plants, Utilities and Energy Construction",401525101025,RBICS_IG,6
+Processor Semiconductors,55102030,RBICS_IG,4
+Product Labeling Printers,101010151520,RBICS_IG,6
+Productivity Software,5520152530,RBICS_IG,5
+Professional Advancement Education,502510101520,RBICS_IG,6
+Professional Content Providers,5520103010,RBICS_IG,5
+Professional Data and Services,55201030,RBICS_IG,4
+Professional Liability Commercial Insurance,301510201050,RBICS_IG,6
+Professional/Contractor Suppliers,401520251015,RBICS_IG,6
+Programmable Logic Device Semiconductors,5510203515,RBICS_IG,5
+Programmable Logic and ASIC Semiconductors,55102035,RBICS_IG,4
+Propane and LPG Marketing and Distribution,2515101030,RBICS_IG,5
+Property Owners,30251515,RBICS_IG,4
+Property Reinsurance,301510252025,RBICS_IG,6
+Property and Casualty Insurance,30151020,RBICS_IG,4
+Property and Casualty Reinsurance,3015102520,RBICS_IG,5
+Proprietary Trading,3020102520,RBICS_IG,5
+Protective and Occupational Apparel Production,201010151555,RBICS_IG,6
+Protective/Pressure Sensitive Material Products,4520151520,RBICS_IG,5
+Public Infrastructure Components Manufacturing,451535101520,RBICS_IG,6
+Public Relations Agencies,101010101020,RBICS_IG,6
+Publishing,1515102020,RBICS_IG,5
+Pulp Mills,452010202020,RBICS_IG,6
+Pulp and Paper Additives Manufacturing,451020102030,RBICS_IG,6
+Pulp and Paper Mills,4520102020,RBICS_IG,5
+RF Analog and Mixed Signal Semiconductors,5510201025,RBICS_IG,5
+RFID Asset Tracking Equipment Manufacturing,5515101020,RBICS_IG,5
+Radio Broadcasting,151510101015,RBICS_IG,6
+Radio Communication Equipment,5515154525,RBICS_IG,5
+Radio Frequency/Microwave Passive Electronic Parts,5510102535,RBICS_IG,5
+Radio and Television Broadcasting,1515101010,RBICS_IG,5
+Radiology Devices,352020151030,RBICS_IG,6
+Radium and Vanadium Mining,25101030,RBICS_IG,4
+Rail Equipment Manufacturers,4010251030,RBICS_IG,5
+Rail Leasing Services,303010101530,RBICS_IG,6
+Rail Transportation,4015102010,RBICS_IG,5
+Rare Earth Elements Ore Mining,451525102015,RBICS_IG,6
+Ready-Mix Concrete Makers,451535201520,RBICS_IG,6
+Real Estate,3025,RBICS_IG,2
+Real Estate Classifieds and Directories Sites,552010101040,RBICS_IG,6
+Real Estate Developers,3025151020,RBICS_IG,5
+Real Estate Fund Managers,302010101035,RBICS_IG,6
+Real Estate Investment Trusts (REITs),302520,RBICS_IG,3
+Real Estate Investment and Services,302515,RBICS_IG,3
+Real Estate and Construction Industry Software,302515101515,RBICS_IG,6
+Records Management Services,101015103020,RBICS_IG,6
+Recreation Equipment Manufacturing,2020101525,RBICS_IG,5
+Recreational Goods,20101515,RBICS_IG,4
+Recycling Services,1010251025,RBICS_IG,5
+Refined Petroleum Liquid Pipeline and Storage,2515152020,RBICS_IG,5
+Refined Petroleum and Other Liquid Transportation,251020101030,RBICS_IG,6
+Rehabilitation Patient Care,3515153025,RBICS_IG,5
+Reinsurance,30151025,RBICS_IG,4
+Renewable Energy/Distributed Power System Makers,4010152015,RBICS_IG,5
+Research Models/Laboratory Animals,351520252020,RBICS_IG,6
+Residential Mortgage Banking and Services,3010151020,RBICS_IG,5
+Residential Mortgage REITs,302520201020,RBICS_IG,6
+Residential Property Owners,302515151020,RBICS_IG,6
+Residential Real Estate Services and Brokerage,302515101520,RBICS_IG,6
+Residential Specialty Engineering Contractors,401525102020,RBICS_IG,6
+Respiratory Devices,352020151540,RBICS_IG,6
+Respiratory System Biopharmaceuticals,35102060,RBICS_IG,4
+Rest of Asia Gold Ore Mining,451525201525,RBICS_IG,6
+Rest of Europe Fossil Fuel Exploration/Production,251015201515,RBICS_IG,6
+Restaurants and Bars,15101025,RBICS_IG,4
+Retail Advisory Services,302010251030,RBICS_IG,6
+Retail Advisory and Brokerage Services,302010251025,RBICS_IG,6
+Retail Brokerage Services,302010251035,RBICS_IG,6
+Retail Distributors,50101025,RBICS_IG,4
+Retail Industry Software,20151530,RBICS_IG,4
+River Cruise Lines,151010101015,RBICS_IG,6
+Road Transportation,4015102015,RBICS_IG,5
+Road Transportation Infrastructure and Support,401510201530,RBICS_IG,6
+Road and Rail Transportation Operators,40151020,RBICS_IG,4
+Rugged Footwear,201010152025,RBICS_IG,6
+Russia and CIS Gold Ore Mining,451525202025,RBICS_IG,6
+Russia/CIS/FSU Fossil Fuel Exploration/Production,2510152030,RBICS_IG,5
+Safety and Sterilization Medical Supplies,3520201015,RBICS_IG,5
+Sales Force Automation (SFA) Software,552015152525,RBICS_IG,6
+Salons and Spa Services,502510151530,RBICS_IG,6
+"Sand, Gravel and Rocks Mineral Mining",4515301540,RBICS_IG,5
+Sanitary and Personal Care Paper Products,50202040,RBICS_IG,4
+Satellite Equipment,55151530,RBICS_IG,4
+Satellite Systems Manufacturing,401010101510,RBICS_IG,6
+"Sauces, Dressings and Food Oils Production",501515153030,RBICS_IG,6
+"School, Art and Office Supplies Manufacturing",2010151030,RBICS_IG,5
+Scientific Analytical Instruments,351520251515,RBICS_IG,6
+Scientific Products,35152025,RBICS_IG,4
+Seafood Processors,501515152530,RBICS_IG,6
+Seafood Production,5015101015,RBICS_IG,5
+Securities Exchanges,302010252515,RBICS_IG,6
+Securities Exchanges and ECNs,3020102525,RBICS_IG,5
+Securities Sales and Trading Services,30201025,RBICS_IG,4
+Security Services,10102015,RBICS_IG,4
+Security Systems Services,101020151020,RBICS_IG,6
+Security and Identification Semiconductors,5510204030,RBICS_IG,5
+Security and Management Consulting,5520202525,RBICS_IG,5
+Security and Safety Equipment Manufacturing,401010151515,RBICS_IG,6
+Semiconductor Assembly and Packaging Services,551030151510,RBICS_IG,6
+Semiconductor Back End and Fab Support Services,5510301010,RBICS_IG,5
+Semiconductor Capital Equipment/Parts Distribution,551030101015,RBICS_IG,6
+Semiconductor Components/Subsystems Manufacturing,551030102010,RBICS_IG,6
+Semiconductor Equipment and Services,551030,RBICS_IG,3
+Semiconductor Foundry Services,5510301510,RBICS_IG,5
+Semiconductor Front End Processing Equipment,5510301015,RBICS_IG,5
+Semiconductor Manufacturing,551020,RBICS_IG,3
+Semiconductor Manufacturing Capital Equipment,55103010,RBICS_IG,4
+Semiconductor Manufacturing Services,55103015,RBICS_IG,4
+Semiconductor Packaging and Testing Services,5510301515,RBICS_IG,5
+Semiconductor Process Analysis Tool Manufacturing,551030102015,RBICS_IG,6
+Semiconductor Process Control Equipment,5510301020,RBICS_IG,5
+Semiconductor Testing Services,551030151520,RBICS_IG,6
+Semiconductors Distributors,551530151015,RBICS_IG,6
+Server Computer Systems,5515201530,RBICS_IG,5
+Ship Builders and Ship Repair Service Providers,4010251035,RBICS_IG,5
+Ship Builders and Ship Repairs,401025103510,RBICS_IG,6
+Shipping Infrastructure and Services (Ports),401510101535,RBICS_IG,6
+"Showcase, Partition, Shelving and Locker Makers",502015201520,RBICS_IG,6
+Silver Ore Mining,451525202520,RBICS_IG,6
+Skilled Nursing Facility (Nursing Home),3515152025,RBICS_IG,5
+Skin Care Products,50202045,RBICS_IG,4
+Small Appliances and Accessories Manufacturing,50201015,RBICS_IG,4
+Small Arms and Security Manufacturing,4010101515,RBICS_IG,5
+Smart Grid Technology and Smart Meter Products,401015201525,RBICS_IG,6
+Smart Phone Manufacturing,5515154530,RBICS_IG,5
+Snack Foods Production,501515153530,RBICS_IG,6
+"Snack, Coffee and Juice Shops",151010251545,RBICS_IG,6
+"Soaps, Detergents and Biocides Manufacturing",4510202515,RBICS_IG,5
+Soft Drink Manufacturing,501515102040,RBICS_IG,6
+Software,552015,RBICS_IG,3
+Software Design and Engineering Consulting,5520202530,RBICS_IG,5
+Software Development Software,552015102520,RBICS_IG,6
+Software Distributors,55153020,RBICS_IG,4
+Software and Consulting,5520,RBICS_IG,2
+Soil Remediation,1010253025,RBICS_IG,5
+Solid Waste Recycling Equipment Manufacturing,401020151540,RBICS_IG,6
+South Africa Gold Ore Mining,451525202030,RBICS_IG,6
+South United States Savings Institutions,301020151515,RBICS_IG,6
+Southeast Asia Gold Ore Mining,451525201530,RBICS_IG,6
+Soybean Farming,501510153535,RBICS_IG,6
+Space and Missile Equipment Manufacturing,401010101515,RBICS_IG,6
+Specialized Ambulatory and Outpatient Patient Care,3515153030,RBICS_IG,5
+Specialized Clinical Laboratories,351515151015,RBICS_IG,6
+Specialized Design and Engineering Software,5520151025,RBICS_IG,5
+Specialized Medical Devices,35202015,RBICS_IG,4
+Specialized Patient Care,351515303010,RBICS_IG,6
+Specialized Semiconductors,55102040,RBICS_IG,4
+Specialty Analog and Mixed Signal Semiconductors,5510201030,RBICS_IG,5
+Specialty Contractors,4015251020,RBICS_IG,5
+Specialty Finance,303010,RBICS_IG,3
+Specialty Finance and Services,3030,RBICS_IG,2
+Specialty Metal Ore Mining,4515251020,RBICS_IG,5
+Specialty and Performance Chemicals,451020,RBICS_IG,3
+Specialty/Performance Fibers and Polymer Products,45102035,RBICS_IG,4
+Spectator Sports and Performing Arts,1510101530,RBICS_IG,5
+Spices and Extracts Manufacturing,501515153035,RBICS_IG,6
+Spirits Stores,501010101015,RBICS_IG,6
+Sporting Goods Stores,202515151520,RBICS_IG,6
+Sporting and Athletic Goods,20101520,RBICS_IG,4
+Sports Teams and Sports Entertainment,151010153025,RBICS_IG,6
+Staffing Services,101015101040,RBICS_IG,6
+Stamping and Forging Shops,4515101040,RBICS_IG,5
+Steel Mixed Mill Types and Products Manufacturing,451510151510,RBICS_IG,6
+Stock Borrowing and Lending Services,302010251530,RBICS_IG,6
+Strategic and Operational Consulting Services,101015152035,RBICS_IG,6
+Structural Support Component Manufacturing,451535101030,RBICS_IG,6
+Sub-Saharan Fossil Fuel Exploration/Production,2510152035,RBICS_IG,5
+Sugar and Sweetener Production,501515153535,RBICS_IG,6
+Sugarcane Farming,501510153025,RBICS_IG,6
+Sunglasses and Prescription Frames Production,201010101020,RBICS_IG,6
+Supermarkets,5010102020,RBICS_IG,5
+Supplemental Health Insurance,3015101515,RBICS_IG,5
+Supply Chain ERP Software,552015153030,RBICS_IG,6
+Support Activities for Oil and Gas Operations,251020,RBICS_IG,3
+Surety Bonds Commercial Insurance,301510201055,RBICS_IG,6
+Surgical Biopharmaceuticals,35101520,RBICS_IG,4
+Surgical Devices,3520151020,RBICS_IG,5
+Surgical Robotic Systems,352015102020,RBICS_IG,6
+Sweets and Snacks Production,5015151535,RBICS_IG,5
+Swimming Pool and Spa Products,2010151040,RBICS_IG,5
+Synthetic Rubber Resins/Materials Manufacturing,451020351025,RBICS_IG,6
+System-Specific Biopharmaceuticals,351020,RBICS_IG,3
+System-Specific General Medical Devices,35201510,RBICS_IG,4
+System-Specific Specialized Medical Devices,3520201515,RBICS_IG,5
+Tandem Interconnection Services,601010301025,RBICS_IG,6
+Tax Preparation Services,101015201025,RBICS_IG,6
+"Team, Individual and Other Sports Manufacturing",2010152030,RBICS_IG,5
+Technology,55,RBICS_IG,1
+Technology Consulting Services,552020,RBICS_IG,3
+Technology Equipment Support and Installation,101020101520,RBICS_IG,6
+Telecommunications,60,RBICS_IG,1
+Telecommunications Carrier Services,60101030,RBICS_IG,4
+Telecommunications Construction,401525101030,RBICS_IG,6
+Telecommunications Customer Relationship Software,601010351020,RBICS_IG,6
+Telecommunications Industry Software,60101035,RBICS_IG,4
+Telecommunications Industry Software and Services,60101040,RBICS_IG,4
+Telecommunications Operations Support Software,601010351025,RBICS_IG,6
+Television Cable and Broadcast Networks,1515101515,RBICS_IG,5
+Television Equipment Manufacturing,5515252525,RBICS_IG,5
+Television Production,151510152025,RBICS_IG,6
+Television Stations,151510101020,RBICS_IG,6
+Television and Video Equipment Manufacturing,551510251025,RBICS_IG,6
+"Television, Film and Video",151510152030,RBICS_IG,6
+Test and Measurement Communications Equipment,5515104520,RBICS_IG,5
+Test and Measurement Equipment,55151045,RBICS_IG,4
+"Test, Measurement and Metrology Equipment Makers",551030102020,RBICS_IG,6
+Textile Furnishing Manufacturing,502015201525,RBICS_IG,6
+Textile Products,45202010,RBICS_IG,4
+Textiles Distribution,401520151515,RBICS_IG,6
+Thermal and Chemical Processing Machinery Makers,401020152525,RBICS_IG,6
+Tire Manufacturing,202010102015,RBICS_IG,6
+Titanium Sponges and Structural Shape Products,451510203525,RBICS_IG,6
+Title Commercial Insurance,301510201060,RBICS_IG,6
+Tobacco Product Retail,5010102530,RBICS_IG,5
+Tobacco Production,501520,RBICS_IG,3
+Toll Road Operators,401510201535,RBICS_IG,6
+Tools and Outdoor Care Building Hand Tool Products,4010203525,RBICS_IG,5
+Tools and Outdoor Care Equipment,40102035,RBICS_IG,4
+Touchscreen Panels Display Equipment,5515203025,RBICS_IG,5
+Tour Operators,1510103015,RBICS_IG,5
+Toxicology Biopharmaceuticals,35101525,RBICS_IG,4
+"Toy, Game, Hobby and Musical Instrument Products",2010151035,RBICS_IG,5
+"Toys, Games and Collectibles Retail",202515151525,RBICS_IG,6
+Trade Execution Services,302010251040,RBICS_IG,6
+Trading Software,303015101035,RBICS_IG,6
+Traditional Investment Products,3020101030,RBICS_IG,5
+Traditional Vehicle Batteries Manufacturing,401015101555,RBICS_IG,6
+Traffic Safety and Management Equipment Products,4010251040,RBICS_IG,5
+Transdermal Delivery Devices,3520101520,RBICS_IG,5
+Transfusion Medicine Devices,352020151035,RBICS_IG,6
+Transplantation Biopharmaceuticals,35101530,RBICS_IG,4
+Transportation Construction,401525101035,RBICS_IG,6
+Transportation Equipment Manufacturing,401025,RBICS_IG,3
+Transportation Industry Software,401510151015,RBICS_IG,6
+Travel Agencies,1510103020,RBICS_IG,5
+Travel Arrangement and Reservation Services,15101030,RBICS_IG,4
+Travel Publishers,1510103025,RBICS_IG,5
+Treatment Devices,352015101520,RBICS_IG,6
+"Truck, Trailer and Recreational Vehicle Rental",201510201020,RBICS_IG,6
+Tungsten Ore Mining,451525101045,RBICS_IG,6
+Turnkey Assembly Manufacturing Services,5510151025,RBICS_IG,5
+Type 1 Diabetes Biopharmaceuticals,351020251010,RBICS_IG,6
+Type 2 Diabetes Biopharmaceuticals,351020251015,RBICS_IG,6
+US Fossil Fuel Wholesale Power,651010351510,RBICS_IG,6
+US Investment Banking and Corporate Finance,302010151020,RBICS_IG,6
+US Mixed Traditional Fuel Wholesale Power,651010351515,RBICS_IG,6
+US Mixed Wholesale Power,651010351015,RBICS_IG,6
+US Natural Gas Pipeline and Storage,251515101515,RBICS_IG,6
+US Other and Mixed Wholesale Power,6510103510,RBICS_IG,5
+US Rockies Fossil Fuel Exploration/Production,251015101525,RBICS_IG,6
+US Southern Fossil Fuel Exploration/Production,2510151020,RBICS_IG,5
+US TV Cable and Broadcast Networks,151510151510,RBICS_IG,6
+US Territories and Puerto Rico Commercial Banks,301020101015,RBICS_IG,6
+US Traditional Fuel Wholesale Power,6510103515,RBICS_IG,5
+US Voice Over IP Telephony (VoIP) Services,601015153025,RBICS_IG,6
+US West South Central Electric Utilities,651010102030,RBICS_IG,6
+US and Canada CNG and LNG Distributors,251510101015,RBICS_IG,6
+US and Canada Crude Oil Liquid Pipeline/Storage,251515201035,RBICS_IG,6
+US and Canada Natural Gas Pipeline and Storage,2515151015,RBICS_IG,5
+US and Canada Petroleum Storage and Transport,251510102515,RBICS_IG,6
+US and Canada Propane and LPG Mktg. and Dist.,251510103015,RBICS_IG,6
+United States Air Passenger Service Providers,4015301030,RBICS_IG,5
+United States Banks,301020,RBICS_IG,3
+United States Biomass Wholesale Power,651010351020,RBICS_IG,6
+United States Class I Railroad Transportation,401510201025,RBICS_IG,6
+United States Coal Mining,251010101015,RBICS_IG,6
+United States Commercial Banks,30102010,RBICS_IG,4
+United States Decentralized Wholesale Power,651010351025,RBICS_IG,6
+United States Department Stores,5010151025,RBICS_IG,5
+United States East Savings Institutions,3010201510,RBICS_IG,5
+United States East South Central Commercial Banks,301020101515,RBICS_IG,6
+United States East and South Commercial Banks,3010201015,RBICS_IG,5
+United States Full-Service Restaurants and Bars,151010251010,RBICS_IG,6
+United States Geothermal Wholesale Power,651010351030,RBICS_IG,6
+United States Gold Ore Mining,451525201030,RBICS_IG,6
+United States Hydroelectric Wholesale Power,651010351035,RBICS_IG,6
+United States Internet Banks,30102025,RBICS_IG,4
+United States Long Distance Voice Services,601015153020,RBICS_IG,6
+United States Midwest Commercial Banks,301020102010,RBICS_IG,6
+United States Midwest Electric Utilities,651010102010,RBICS_IG,6
+United States Midwest Natural Gas Utilities,651010151510,RBICS_IG,6
+United States Midwest and West Commercial Banks,3010201020,RBICS_IG,5
+United States Mixed Alternative Wholesale Power,651010351010,RBICS_IG,6
+United States Natural Gas Utilities,6510101515,RBICS_IG,5
+United States Northeast Commercial Banks,301020101520,RBICS_IG,6
+United States Northeast Electric Utilities,651010102015,RBICS_IG,6
+United States Northeast Natural Gas Utilities,651010151520,RBICS_IG,6
+United States Nuclear Wholesale Power,651010351520,RBICS_IG,6
+United States Pacific Commercial Banks,301020102015,RBICS_IG,6
+United States Regional Electric Utilities,6510101020,RBICS_IG,5
+United States Satellite Services,60101045,RBICS_IG,4
+United States Savings Institutions,30102015,RBICS_IG,4
+United States Short-Line Railroad Transportation,401510201030,RBICS_IG,6
+United States Solar Wholesale Power,651010351040,RBICS_IG,6
+United States South Atlantic Commercial Banks,301020101525,RBICS_IG,6
+United States South Atlantic Electric Utilities,651010102020,RBICS_IG,6
+United States South Electric Utilities,651010102035,RBICS_IG,6
+United States South Natural Gas Utilities,651010151525,RBICS_IG,6
+United States South and West Savings Institutions,3010201515,RBICS_IG,5
+United States Southern Commercial Banks,301020101510,RBICS_IG,6
+United States Supermarkets,501010202025,RBICS_IG,6
+"United States Transmission, Dist., and Storage",65101055,RBICS_IG,4
+United States Video and Television Services,601010251015,RBICS_IG,6
+United States Water Utilities,65101515,RBICS_IG,4
+United States West Electric Utilities,651010102025,RBICS_IG,6
+United States West Natural Gas Utilities,651010151530,RBICS_IG,6
+United States West South Central Commercial Banks,301020102020,RBICS_IG,6
+United States Western Commercial Banks,301020102025,RBICS_IG,6
+United States Wholesale Power,65101035,RBICS_IG,4
+United States Wind Wholesale Power,651010351045,RBICS_IG,6
+United States Wireless Business Data Services,601015103015,RBICS_IG,6
+United States Wireless Services,6010151030,RBICS_IG,5
+United States Wireless Voice Services,601015103020,RBICS_IG,6
+United States Wireline Business Data Services,601015153030,RBICS_IG,6
+United States Wireline Data Services,601015153035,RBICS_IG,6
+United States Wireline Services,6010151530,RBICS_IG,5
+Upholstery Fabrics Manufacturing,4520201025,RBICS_IG,5
+Upstream Energy,2510,RBICS_IG,2
+Uranium Fuel Manufacturing,451010101540,RBICS_IG,6
+Uranium Mining,25101035,RBICS_IG,4
+Urology Biopharmaceuticals,35102065,RBICS_IG,4
+Urology Devices,352020151545,RBICS_IG,6
+Used Car Dealers,201510151020,RBICS_IG,6
+Utilities,65,RBICS_IG,1
+Utilities Industry Software,6510102025,RBICS_IG,5
+Utilities Pipes and Pipe Fittings Manufacturing,451535101525,RBICS_IG,6
+Utility Meter Manufacturing,401020101040,RBICS_IG,6
+Vacation Ownership Operators,151010102530,RBICS_IG,6
+Value-Added Technology Manufacturing Services,5510151030,RBICS_IG,5
+Valves and Fluid Control Products,401020101530,RBICS_IG,6
+Vascular Devices,352020151550,RBICS_IG,6
+Vascular Disorders Biopharmaceuticals,3510201020,RBICS_IG,5
+Vegetable Farming,501510152030,RBICS_IG,6
+Vehicle Autonomous Control Electronics Makers,202010101025,RBICS_IG,6
+Vehicle Autonomous Control Software,201510102020,RBICS_IG,6
+Vehicle Wheel Manufacturing,202010102020,RBICS_IG,6
+Veterinary Diagnostics,351520301010,RBICS_IG,6
+Veterinary Pharmaceuticals,351520301015,RBICS_IG,6
+Veterinary Product Distributors,351520301510,RBICS_IG,6
+Veterinary Products,3515203010,RBICS_IG,5
+Veterinary Products and Services,35152030,RBICS_IG,4
+Veterinary Services,3515203015,RBICS_IG,5
+Video Entertainment and Programming Providers,1515101520,RBICS_IG,5
+Video Multimedia Semiconductors,551020401525,RBICS_IG,6
+Video Peripherals,5515201040,RBICS_IG,5
+Video Signal Processor and Receiver Equipment,5515252520,RBICS_IG,5
+Viral Biopharmaceuticals,351010102010,RBICS_IG,6
+Viral Infectious Disease Biopharmaceuticals,3510101020,RBICS_IG,5
+Virtual Reality Design and Engineering Software,552015102525,RBICS_IG,6
+Virtual Reality Equipment,55152545,RBICS_IG,4
+Vision Health Services,351515303015,RBICS_IG,6
+Volatile Memory Semiconductors,5510202520,RBICS_IG,5
+Wafer Blank Makers and Equipment Manufacturing,551030101525,RBICS_IG,6
+Wafer Processing Subsystem Equipment Manufacturing,551030101020,RBICS_IG,6
+Warehouse Club Stores and Superstores,5010153010,RBICS_IG,5
+Warehouse Clubs and Superstores,50101530,RBICS_IG,4
+Waste Management Services,101025,RBICS_IG,3
+Waste-to-Energy Services,1010253030,RBICS_IG,5
+Wastewater Residual Management,1010253035,RBICS_IG,5
+Wastewater Treatment Services,10102525,RBICS_IG,4
+"Watches, Clocks and Related Parts Production",201010101025,RBICS_IG,6
+Water Transportation,4015101015,RBICS_IG,5
+Water Transportation (Ferry Service),4015301525,RBICS_IG,5
+Water Treatment Agents Manufacturing,4510202520,RBICS_IG,5
+Water Utilities,651015,RBICS_IG,3
+Wearable Technology,55152550,RBICS_IG,4
+Web Development Software Makers,5520102025,RBICS_IG,5
+Web Navigation Sites and Software,552010351510,RBICS_IG,6
+Web Portal Sites and Software,552010351515,RBICS_IG,6
+Web Search Sites and Software,552010351520,RBICS_IG,6
+Web-Based Data and Services,55201035,RBICS_IG,4
+Web-Related Content Providers,5520103515,RBICS_IG,5
+Weight Management Biopharmaceuticals,35101535,RBICS_IG,4
+Welding and Joining Tool Manufacturing,401020152025,RBICS_IG,6
+Western Europe Mixed Telecommunications Services,6010106015,RBICS_IG,5
+Western Europe Wireless Services,601015102025,RBICS_IG,6
+Western Europe Wireline Services,601015152025,RBICS_IG,6
+Western United States Savings Institutions,301020151520,RBICS_IG,6
+Wholesale Pharmaceuticals Distributors,3515102025,RBICS_IG,5
+Wholesale/Generic Pharmaceuticals Distributors,351510202510,RBICS_IG,6
+Wide Area Networking Equipment,55151535,RBICS_IG,4
+Wind Energy Equipment Manufacturing,401015201530,RBICS_IG,6
+Windows and Doors Manufacturing,451535101035,RBICS_IG,6
+Wineries,501515101030,RBICS_IG,6
+Winter Sports,151010151035,RBICS_IG,6
+Wireless Core Infrastructure Equipment,55151540,RBICS_IG,4
+Wireless Infrastructure Services,6010104015,RBICS_IG,5
+Wireless Mobile Equipment,55151545,RBICS_IG,4
+Wireless Services,60101510,RBICS_IG,4
+Wireless and Wi-Fi Equipment,5515152015,RBICS_IG,5
+Wireless and Wireline Telecommunications Services,601015,RBICS_IG,3
+Wireline Equipment,5515152020,RBICS_IG,5
+Wireline Services,60101515,RBICS_IG,4
+Wires and Cables Manufacturing,401015101530,RBICS_IG,6
+Women's Wear Stores,202510201525,RBICS_IG,6
+Workers' Compensation Commercial Insurance,301510201065,RBICS_IG,6
+Zinc Metal Products Manufacturing,451510203530,RBICS_IG,6
+Zinc Ore Mining,451525102020,RBICS_IG,6
